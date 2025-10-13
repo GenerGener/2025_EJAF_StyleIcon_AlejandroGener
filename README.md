@@ -5,7 +5,7 @@ EJAF Style Icon + Heelbent campaign
 
 | Date | Platforms | Content Summary |
 |------|------------|-----------------|
-| 2025-10-06 | [Facebook](https://facebook.com/) • [Instagram](https://instagram.com/) • [Twitter](https://twitter.com/) | Planned posts for all platforms on October 6, 2025 |
+| 2025-10-06 | [Facebook](https://facebook.com/) | [Instagram](https://instagram.com/) | [Twitter](https://twitter.com/) | Planned posts for all platforms on October 6, 2025 |
 | 2025-10-07 | [Facebook](https://facebook.com/) • [Instagram](https://instagram.com/) • [Twitter](https://twitter.com/) | Planned posts for all platforms on October 7, 2025 |
 | 2025-10-08 | [Facebook](https://facebook.com/) • [Instagram](https://instagram.com/) • [Twitter](https://twitter.com/) | Planned posts for all platforms on October 8, 2025 |
 | 2025-10-09 | [Facebook](https://facebook.com/) • [Instagram](https://instagram.com/) • [Twitter](https://twitter.com/) | Planned posts for all platforms on October 9, 2025 |
