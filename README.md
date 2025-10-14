@@ -5,7 +5,7 @@ EJAF Style Icon + Heelbent campaign
 
 | Round | Day | Date | Platforms | Content Summary |
 |-|-|-|-|-|
-| 1 | 1 | 2025-10-06 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://x.com/Cas9Bandit/status/1975250355882762742) | Planned posts for all platforms on October 6, 2025 |
+| 1 | 1 | 2025-10-06 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://www.linkedin.com/posts/activity-7381015098250711040-HIGk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY)<br>[Twitter](https://x.com/Cas9Bandit/status/1975250355882762742) | Planned posts for all platforms on October 6, 2025 |
 | 1 | 2 | 2025-10-07 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 7, 2025 |
 | 1 | 3 | 2025-10-08 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 8, 2025 |
 | 1 | 4 | 2025-10-09 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 9, 2025 |
