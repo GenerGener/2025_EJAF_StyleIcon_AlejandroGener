@@ -1,23 +1,41 @@
 # 2025_EJAF_StyleIcon_AlejandroGener
-EJAF Style Icon + Heelbent campaign
+Style Icon + Heelbent campaign
 
-# Oct 2025 posts
+Benefiting the Elton John AIDS Foundation (EJAF)
+
+# Pledge to prioritize Elton John AIDS Foundation over social media outlets
+
+During Round 1, I noticed folks prioritizing visibility over meaningful engagement, perhaps missing the plot. The Style Icon contest’s main benefit should be to help folks talk about the needs of communities impacted by hashtag#HIV, and helped by folks like EJAF. As I was working on my Style Icon campaign, I stumbled upon the occasional sponsored post. As in, Style Icon contestants paying advertisers to spread their profiles. To each their own, but as a community member, my preference is to help direct funds toward EJAF, and secondarily to raise awareness about my independent HIV research program and startup I’m working to launch which directly addresses improved treatments and cures. _During my Style Icon campaign, I pledge that I will not pay for or ask others to pay for sponsored posts on my behalf with any social media companies. All donations in support of my campaign should go through colossal.org for distribution to EJAF._
+
+# Style Icon Competition Schedule
+
+* Top 20 (begins October 6th and ends October 16th) – Public voting will help reduce each group to the top twenty (20) Competitors.
+* Top 15 (begins October 16th and ends October 23rd) – Public voting will help reduce each group to the top fifteen (15) Competitors.
+* Top 10 (begins October 23rd and ends October 30th) – Public voting will help reduce each group to the top ten (10) Competitors.
+* Top 5 (begins October 30th and ends November 6th) – Public voting will help reduce each group to the top five (5) Competitors.
+* Group Finals (begin November 6th and end November 13th) – Public voting will help reduce total Competitors to one (1) preliminary winner in each Group Finals group who will then advance to the Quarterfinals.
+* Wildcard Round (November 14th and ends November 16th) – Those Competitors who took second (2nd) place in their respective Group Finals group will compete in a shortened round for a chance to advance to the Quarterfinals. Votes will be reset, and public voting will determine the top one (1) Competitor from each group who will then advance to the Quarterfinals.
+* Quarterfinals (begin November 17th and end November 27th) – The top Competitors from each Group Finals/Wildcard Round group will be divided into Quarterfinals groups. Votes will be reset, and public voting will determine the top one (1) Quarterfinalist from each group who will then advance to the Semifinals.
+* Semifinals (begin November 28th and end December 4th) – The top Competitors from each Quarterfinals group will be divided into Semifinals groups. Votes will be reset, and public voting will determine the top one (1) Semifinalist from each group who will then advance to the Finals.
+* Finals (begin December 5th and end December 11th) – Votes will be reset, and public voting will determine which Finalist will be the winner of the 2025 Style Icon Competition (the “Public Choice Grand Prize Winner”). Public Choice Grand Prize Winner will be announced on or before December 26th , 2025.
+
+# 2025 Post Logs
 
 | Round | Day | Date | Platforms | Content Summary |
 |-|-|-|-|-|
 | 1 | 1 | 2025-10-06 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://www.linkedin.com/posts/activity-7381015098250711040-HIGk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY)<br>[Twitter](https://x.com/Cas9Bandit/status/1975250355882762742) | Planned posts for all platforms on October 6, 2025 |
-| 1 | 2 | 2025-10-07 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 7, 2025 |
-| 1 | 3 | 2025-10-08 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 8, 2025 |
-| 1 | 4 | 2025-10-09 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 9, 2025 |
-| 1 | 5 | 2025-10-10 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 10, 2025 |
-| 1 | 6 | 2025-10-11 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 11, 2025 |
-| 1 | 7 | 2025-10-12 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 12, 2025 |
-| 1 | 8 | 2025-10-13 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 13, 2025 |
+| 1 | 2 | 2025-10-07 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://www.linkedin.com/posts/activity-7381479809178284032-boNY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY)<br>[Twitter](https://x.com/Cas9Bandit/status/1975689053321503017) | Planned posts for all platforms on October 7, 2025 |
+| 1 | 3 | 2025-10-08 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://www.linkedin.com/posts/activity-7381942793071616000-0yED?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY)<br>[Twitter](https://x.com/Cas9Bandit/status/1976155530075963680) | Planned posts for all platforms on October 8, 2025 |
+| 1 | 4 | 2025-10-09 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://www.linkedin.com/posts/activity-7382497328378671104-PM6g?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY)<br>[Twitter](https://x.com/Cas9Bandit/status/1976535179746476216) | Planned posts for all platforms on October 9, 2025 |
+| 1 | 5 | 2025-10-10 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://www.linkedin.com/posts/activity-7382635460248047616-4tFS?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY)<br>[Twitter](https://x.com/Cas9Bandit/status/1976867866583745001) | Planned posts for all platforms on October 10, 2025 |
+| 1 | 6 | 2025-10-11 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://www.linkedin.com/posts/activity-7382940700281098240-SUqN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY)<br>[Twitter](https://x.com/Cas9Bandit/status/1977139888412901619) | Planned posts for all platforms on October 11, 2025 |
+| 1 | 7 | 2025-10-12 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://www.linkedin.com/posts/activity-7383348978995781632-Hph4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY)<br>[Twitter](https://x.com/Cas9Bandit/status/1977570002225242209) | Planned posts for all platforms on October 12, 2025 |
+| 1 | 8 | 2025-10-13 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://www.linkedin.com/posts/activity-7383665140254220288-f2fk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY)<br>[Twitter](https://x.com/Cas9Bandit/status/1977893080205500926) | Planned posts for all platforms on October 13, 2025 |
+
+<!--
 | 1 | 9 | 2025-10-14 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 14, 2025 |
 | 1 | 10 | 2025-10-15 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 15, 2025 |
 | 1 | 11 | 2025-10-16 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 16, 2025 |
-
-<!--
 |  |  | 2025-10-17 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 17, 2025 |
 |  |  | 2025-10-18 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 18, 2025 |
 |  |  | 2025-10-19 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 19, 2025 |
