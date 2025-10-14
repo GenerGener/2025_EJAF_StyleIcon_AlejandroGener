@@ -17,7 +17,8 @@ EJAF Style Icon + Heelbent campaign
 | 1 | 10 | 2025-10-15 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 15, 2025 |
 | 1 | 11 | 2025-10-16 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 16, 2025 |
 
-<--|  |  | 2025-10-17 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 17, 2025 |
+<!--
+|  |  | 2025-10-17 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 17, 2025 |
 |  |  | 2025-10-18 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 18, 2025 |
 |  |  | 2025-10-19 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 19, 2025 |
 |  |  | 2025-10-20 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 20, 2025 |
@@ -87,6 +88,7 @@ EJAF Style Icon + Heelbent campaign
 | 2025-12-23 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 23, 2025 |
 | 2025-12-24 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 24, 2025 |
 | 2025-12-25 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 25, 2025 |
-| 2025-12-26 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 26, 2025 |-->
+| 2025-12-26 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 26, 2025 |
+-->
 
 # Citations
