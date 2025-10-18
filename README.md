@@ -5,7 +5,9 @@ Benefiting the Elton John AIDS Foundation (EJAF)
 
 # Pledge to prioritize Elton John AIDS Foundation over social media outlets
 
-During Round 1, I noticed folks prioritizing visibility over meaningful engagement, perhaps missing the plot. The Style Icon contest’s main benefit should be to help folks talk about the needs of communities impacted by hashtag#HIV, and helped by folks like EJAF. As I was working on my Style Icon campaign, I stumbled upon the occasional sponsored post. As in, Style Icon contestants paying advertisers to spread their profiles. To each their own, but as a community member, my preference is to help direct funds toward EJAF, and secondarily to raise awareness about my independent HIV research program and startup I’m working to launch which directly addresses improved treatments and cures. __During my Style Icon campaign, I pledge that I will not pay for or ask others to pay for sponsored posts on my behalf with any social media companies. All donations in support of my campaign should go through colossal.org for distribution to EJAF.__
+During Round 1, I noticed folks prioritizing visibility over meaningful engagement, perhaps missing the plot. The Style Icon contest’s main benefit should be to help folks talk about the needs of communities impacted by hashtag#HIV, and helped by folks like EJAF. As I was working on my Style Icon campaign, I stumbled upon the occasional sponsored post. As in, Style Icon contestants paying advertisers to spread their profiles. To each their own, but as a community member, my preference is to help direct funds toward EJAF, and secondarily to raise awareness about my independent HIV research program and startup I’m working to launch which directly addresses improved treatments and cures. 
+
+__Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask others to pay for sponsored posts on my behalf with any social media companies. All donations in support of my campaign should go through colossal.org for distribution to EJAF.__
 
 # Style Icon Competition Schedule
 
