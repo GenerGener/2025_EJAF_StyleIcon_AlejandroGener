@@ -13,7 +13,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
 
 # Style Icon Competition Schedule
 
-| Round_# | Round_name | Round details | Result (starting_rank->ending_rank) |
+| Round_# | Round_name | Round details | Result (starting_rank_->_ending_rank) |
 |-|-|-|-|
 | 1 | Top 20 (begins October 6th and ends October 16th) | Public voting will help reduce each group to the top twenty (20) Competitors. | 1/82->1/20 |
 | 2 | Top 15 (begins October 16th and ends October 23rd) | Public voting will help reduce each group to the top fifteen (15) Competitors. | 1/20->1/15 |
