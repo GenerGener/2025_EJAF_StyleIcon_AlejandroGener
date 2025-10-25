@@ -15,9 +15,9 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
 
 | Round_# | Round_name | Round details | Result (starting_rank -> ending_rank) |
 |-|-|-|-|
-| 1 | Top 20 (begins October 6th and ends October 16th). | Public voting will help reduce each group to the top twenty (20) Competitors. | 1/82 -> 1/20 |
-| 2 | Top 15 (begins October 16th and ends October 23rd). | Public voting will help reduce each group to the top fifteen (15) Competitors. | 1/20 -> 1/15 |
-| 3 | Top 10 (begins October 23rd and ends October 30th). | Public voting will help reduce each group to the top ten (10) Competitors. |  |
+| 1 | Top 20 (begins October 6th and ends October 16th) | Public voting will help reduce each group to the top twenty (20) Competitors. | 1/82 -> 1/20 |
+| 2 | Top 15 (begins October 16th and ends October 23rd) | Public voting will help reduce each group to the top fifteen (15) Competitors. | 1/20 -> 1/15 |
+| 3 | Top 10 (begins October 23rd and ends October 30th) | Public voting will help reduce each group to the top ten (10) Competitors. |  |
 | 4 | Top 5 (begins October 30th and ends November 6th) |Public voting will help reduce each group to the top five (5) Competitors. |  |
 | 5a | Group Finals (begin November 6th and end November 13th) | Public voting will help reduce total Competitors to one (1) preliminary winner in each Group Finals group who will then advance to the Quarterfinals. |  |
 | 5b | Wildcard Round (November 14th and ends November 16th) | Those Competitors who took second (2nd) place in their respective Group Finals group will compete in a shortened round for a chance to advance to the Quarterfinals. Votes will be reset, and public voting will determine the top one (1) Competitor from each group who will then advance to the Quarterfinals. |   |
