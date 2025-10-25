@@ -114,6 +114,6 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
 | 2025-12-24 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 24, 2025 |
 | 2025-12-25 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 25, 2025 |
 | 2025-12-26 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 26, 2025 |
--->
 
-# Citations
+
+# Citations -->
