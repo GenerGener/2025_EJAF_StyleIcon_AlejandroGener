@@ -301,8 +301,8 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>1</td>
       <td>2025-10-24</td>
       <td>
-        <a href="https://facebook.com/">Facebook</a><br>
-        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid033ucrG4B9inYpmTeckzGxpqUw52FUdvtYufgfton2MNJzkzd8qDW8rV85xrHoHekKl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQVs1hRDDjC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
         <a href="https://www.linkedin.com/posts/activity-7388789515135594496-2OEq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1981635951547105530">Twitter</a>
       </td>
@@ -314,8 +314,8 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>2025-10-25</td>
       <td>
         <a href="https://www.facebook.com/alxgener/posts/pfbid02wGypb2MpAPr1fvw7CmSuMmYyoBvBojj44DYRGt8cxawyYTkzFfFuECyv4kFoU56Rl">Facebook</a><br>
-        <a href="https://instagram.com/">Instagram</a><br>
-        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://www.instagram.com/p/DQUI4WbEeqe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7388570819402252289-kfgM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1982206918585123052">Twitter</a>
       </td>
       <td>Planned posts for all platforms on October 25, 2025</td>
@@ -326,7 +326,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>2025-10-26</td>
       <td>
         <a href="https://www.facebook.com/alxgener/posts/pfbid0mtMKSn31f2sgJuQAyJHBGKGidFhjepzEwDpG8SCAgzopnj3KGVKCjqPXCMmSsYJjl">Facebook</a><br>
-        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://www.instagram.com/p/DQUJ-SlEVSz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
         <a href="https://www.linkedin.com/posts/activity-7388572102074908672-Q0in?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1982639211015750065">Twitter</a>
       </td>
@@ -337,9 +337,12 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>4</td>
       <td>2025-10-27</td>
       <td>
-        <a href="https://facebook.com/">Facebook</a><br>
-        <a href="https://instagram.com/">Instagram</a><br>
-        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid037w7N8vJAcpf4woXMVoxQ3BxA8UwA1D1yjnsY86Jm4vuCXUJ4oKxGHMhffR6c1jerl">Facebook_single</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid023mKWdsiSbaAsahTxK1oqf3y1QX4s54i7dNYCPcqwwACsUUmb21Vx8xv5qjXc1kLRl">Facebook_1of2</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0iaUBJFTrZ3pLVpWXxpUaQKgN6DtDkZnmcJak9wAoFovUYKqMDLCRiYW8pLiV9nCwl">Facebook_2of2</a><br>
+        <a href="https://www.instagram.com/p/DQVxbcTEXJi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_1of2</a><br>
+        <a href="https://www.instagram.com/p/DQVxi32kXzj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_2of2</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7388789515135594496-2OEq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1982967898965684317">Twitter</a>
       </td>
       <td>Planned posts for all platforms on October 27, 2025</td>
