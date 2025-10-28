@@ -303,7 +303,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>
         <a href="https://facebook.com/">Facebook</a><br>
         <a href="https://instagram.com/">Instagram</a><br>
-        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7388789515135594496-2OEq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1981635951547105530">Twitter</a>
       </td>
       <td>Planned posts for all platforms on October 24, 2025</td>
