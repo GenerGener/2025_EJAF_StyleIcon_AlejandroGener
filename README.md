@@ -60,6 +60,21 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
 [Twitter](https://x.com/Cas9Bandit/status/1982967898965684317) \
 | Planned posts for all platforms on October 27, 2025 |
 
+<table>
+  <tr>
+    <td>3</td>
+    <td>4</td>
+    <td>2025-10-27</td>
+    <td>
+      <a href="https://facebook.com/">Facebook</a><br>
+      <a href="https://instagram.com/">Instagram</a><br>
+      <a href="https://linkedin.com/">LinkedIn</a><br>
+      <a href="https://x.com/Cas9Bandit/status/1982967898965684317">Twitter</a>
+    </td>
+    <td>Planned posts for all platforms on October 27, 2025</td>
+  </tr>
+</table>
+
 <!--
 |  |  | 2025-10-28 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 28, 2025 |
 |  |  | 2025-10-29 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 29, 2025 |
