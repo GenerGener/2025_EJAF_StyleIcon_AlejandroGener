@@ -51,11 +51,11 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
 | 3 | 1 | 2025-10-24 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://x.com/Cas9Bandit/status/1981635951547105530) | Planned posts for all platforms on October 24, 2025 |
 | 3 | 2 | 2025-10-25 | [Facebook](https://www.facebook.com/alxgener/posts/pfbid02wGypb2MpAPr1fvw7CmSuMmYyoBvBojj44DYRGt8cxawyYTkzFfFuECyv4kFoU56Rl)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://x.com/Cas9Bandit/status/1982206918585123052) | Planned posts for all platforms on October 25, 2025 |
 | 3 | 3 | 2025-10-26 | [Facebook](https://www.facebook.com/alxgener/posts/pfbid0mtMKSn31f2sgJuQAyJHBGKGidFhjepzEwDpG8SCAgzopnj3KGVKCjqPXCMmSsYJjl)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://www.linkedin.com/posts/activity-7388572102074908672-Q0in?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY)<br>[Twitter](https://x.com/Cas9Bandit/status/1982639211015750065) | Planned posts for all platforms on October 26, 2025 |
-| 3 <br>
-| 4 <br>
+| 3 
+| 4 
 | 2025-10-27 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://x.com/Cas9Bandit/status/1982967898965684317) | Planned posts for all platforms on October 27, 2025 |
 
-!<--
+<!--
 |  |  | 2025-10-28 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 28, 2025 |
 |  |  | 2025-10-29 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 29, 2025 |
 |  |  | 2025-10-30 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 30, 2025 |
