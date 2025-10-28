@@ -286,7 +286,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://www.linkedin.com/posts/activity-7388452296818380800-7Vbx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1981163947790389319">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on October 22, 2025</td>
+      <td>Throwback to Day 6, Round 2 (Oct 16): Alex shares a personal “patchwork” physician-scientist journey—from starting an MD at UCC in Puerto Rico to pivoting into a funded PhD at Baylor after institutional roadblocks. He reflects on systemic shortcomings in medicine and research, the resilience it took to keep showing up, and a symbolic white coat stitched with his med-school patch as a reminder to define his own path. Re-energized by discoveries that could help cure chronic viral infections, he thanks family and friends for support and invites readers to keep voting/donating to EJAF.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -310,7 +310,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://www.linkedin.com/posts/activity-7388789515135594496-2OEq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1981635951547105530">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on October 24, 2025</td>
+      <td>Kicking off Round 3 after finishing Round 2 in 1st place 🥇, Alex asks for continued votes/donations and spotlights HIV-1 Nef. He explains why Nef is hard to study (disordered, membrane-associated) and contrasts “ordered” proteins with newer structure-prediction tools (e.g., AlphaFold). A throwback on Nef’s N-terminal myristoylation (membrane anchoring) sets up a modeling experiment that, despite limits (can’t natively model MYR or full bilayers), yields a markedly different hypothesis—now ready to be tested via comparative sequences and mutational studies, funding permitting.</td>
     </tr>
     <tr>
       <td>3</td>
@@ -322,7 +322,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://www.linkedin.com/posts/activity-7388570819402252289-kfgM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1982206918585123052">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on October 25, 2025</td>
+      <td>Throwback to Oct 25 — Round 3 Day 2 of the Elton John AIDS Foundation Style Icon Contest, still in 🥇! Alex urges continued votes/donations and reflects on Heelbent’s bold messaging strategy: dragging textbooks to pitches and even shouting through a megaphone to make the case for evolution-proof antivirals. He critiques how conventional HIV research and funding focus too narrowly on familiar territory, limiting real progress toward cures. Heelbent’s mission—“a future without viruses”—is paired with appreciation for EJAF’s ongoing work ensuring access to HIV and mental-health care. Photo credit: BioLabs San Diego.</td>
     </tr>
     <tr>
       <td>3</td>
@@ -334,7 +334,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://www.linkedin.com/posts/activity-7388572102074908672-Q0in?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1982639211015750065">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on October 26, 2025</td>
+      <td>Alex celebrates holding 🥇 in Round 3 of the Elton John AIDS Foundation Style Icon Contest and thanks supporters for their continued votes and donations. He revisits the HIV mRNA Atlas, explaining that while all HIV mRNAs share a common 3′ tail, their 5′ ends show surprising variability—structured enough to suggest distinct “UTR Classes.” These classifications, first presented at IAS 2021, help bring order to HIV’s complex transcript landscape. He teases that understanding the middle regions of these mRNAs may further clarify how HIV regulates its gene expression, setting up the next day’s post.</td>
     </tr>
     <tr>
       <td>3</td>
@@ -349,7 +349,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://www.linkedin.com/posts/activity-7388789515135594496-2OEq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1982967898965684317">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on October 27, 2025</td>
+      <td>Alex reports maintaining 🥇 in Round 3 of the Elton John AIDS Foundation Style Icon Contest and encourages daily votes and donations. Building on prior posts about HIV mRNA structure, he focuses on the “middle bits” — the open reading frame (ORF) classes that define which proteins each mRNA can produce. He explains that roughly 75% of HIV mRNAs come from the top three transcripts, while the remaining quarter encode key accessory proteins with critical but poorly understood timing and regulation. He hints that tomorrow’s post will explore how these patterns deepen our understanding of HIV’s complex mRNA landscape.</td>
     </tr>
   </tbody>
 </table>
