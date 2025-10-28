@@ -1,7 +1,5 @@
 # 2025_EJAF_StyleIcon_AlejandroGener
-Style Icon (SI) + Heelbent campaign
-
-Benefiting the Elton John AIDS Foundation (EJAF)
+Style Icon (SI) + Heelbent campaign benefiting the Elton John AIDS Foundation (EJAF)
 
 # Pledge to prioritize Elton John AIDS Foundation over social media outlets
 
