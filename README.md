@@ -279,7 +279,11 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://www.facebook.com/alxgener/posts/pfbid0S5a3AUUaBPH3QDtnJibNguEenDPFiLBnyXkcf5rh8fXp4NXgJ8F6uqKLaPKhsbWxl">Facebook_2of4</a><br>
         <a href="https://www.facebook.com/alxgener/posts/pfbid0WkxTzYVf8hmqPPTaPyU4kGn5GuSUoALvFmZLUYXxTZYHTPgFfuHiXGTXrr2ZpmxRl">Facebook_3of4</a><br>
         <a href="https://www.facebook.com/alxgener/posts/pfbid0wcCis9jQpsSneFLWN3iZzdbd3M9xmZ6bSyWNaX4g6cunY4tXnMCKPzbifMjmjDiXl">Facebook_4of4</a><br>
-        <!-- [Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br> this was the patchwork one; need to write for these -->
+        <a href="https://www.instagram.com/p/DQTVOgIEd5_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_1of4</a><br>
+        <a href="https://www.instagram.com/p/DQTWVxCEYLN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_2of4</a><br>
+        <a href="https://www.instagram.com/p/DQTWmCmkZKL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_3of4</a><br>
+        <a href="https://www.instagram.com/p/DQTXDFXERWK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_4of4</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7388452296818380800-7Vbx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1981163947790389319">Twitter</a>
       </td>
       <td>Planned posts for all platforms on October 22, 2025</td>
