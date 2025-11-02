@@ -406,7 +406,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://facebook.com/">Facebook</a><br>
         <a href="https://instagram.com/">Instagram</a><br>
         <a href="https://linkedin.com/">LinkedIn</a><br>
-        <a href="https://twitter.com/">Twitter</a>
+        <a href="https://x.com/Cas9Bandit/status/1984790447835996265">Twitter</a>
       </td>
       <td>Planned posts for all platforms on November 1, 2025</td>
     </tr>
