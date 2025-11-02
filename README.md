@@ -356,7 +356,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>
         <a href="https://facebook.com/">Facebook</a><br>
         <a href="https://instagram.com/">Instagram</a><br>
-        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7389138779070111744-Nat-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1983393320777986554">Twitter</a>
       </td>
       <td>Planned posts for all platforms on October 28, 2025</td>
@@ -368,12 +368,11 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>
         <a href="https://facebook.com/">Facebook</a><br>
         <a href="https://instagram.com/">Instagram</a><br>
-        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7389537156270256128-yTl8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1983751102102467047">Twitter</a>
       </td>
       <td>Planned posts for all platforms on October 29, 2025</td>
     </tr>
-    <!--
     <tr>
       <td>3</td>
       <td>7</td>
@@ -381,12 +380,11 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>
         <a href="https://facebook.com/">Facebook</a><br>
         <a href="https://instagram.com/">Instagram</a><br>
-        <a href="https://linkedin.com/">LinkedIn</a><br>
-        <a href="">Twitter</a>
+        <a href="https://www.linkedin.com/posts/activity-7390586033022824448-dfJe?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1984776691047375289">Twitter</a>
       </td>
       <td>Planned posts for all platforms on October 30, 2025</td>
     </tr>
-    -->
     <tr>
       <td>4</td>
       <td>1</td>
@@ -394,7 +392,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>
         <a href="https://facebook.com/">Facebook</a><br>
         <a href="https://instagram.com/">Instagram</a><br>
-        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7390587088829648896-qJJ7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1983393320777986554">Twitter</a>
       </td>
       <td>Planned posts for all platforms on October 31, 2025</td>
@@ -406,7 +404,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>
         <a href="https://facebook.com/">Facebook</a><br>
         <a href="https://instagram.com/">Instagram</a><br>
-        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7390589278705278976-Dmhj?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1984790447835996265">Twitter</a>
       </td>
       <td>Planned posts for all platforms on November 1, 2025</td>
