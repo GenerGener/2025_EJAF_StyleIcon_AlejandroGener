@@ -397,7 +397,6 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       </td>
       <td>Planned posts for all platforms on October 31, 2025</td>
     </tr>
-    
     <tr>
       <td></td>
       <td></td>
