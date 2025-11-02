@@ -15,7 +15,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
 |-|-|-|-|
 | 1 | Top 20 (begins October 6th and ends October 16th) | Public voting will help reduce each group to the top twenty (20) Competitors. | 1/82 -> 1/20 |
 | 2 | Top 15 (begins October 16th and ends October 23rd) | Public voting will help reduce each group to the top fifteen (15) Competitors. | 1/20 -> 1/15 |
-| 3 | Top 10 (begins October 23rd and ends October 30th) | Public voting will help reduce each group to the top ten (10) Competitors. |  |
+| 3 | Top 10 (begins October 23rd and ends October 30th) | Public voting will help reduce each group to the top ten (10) Competitors. | 1/15 -> 1/10 |
 | 4 | Top 5 (begins October 30th and ends November 6th) |Public voting will help reduce each group to the top five (5) Competitors. |  |
 | 5a | Group Finals (begin November 6th and end November 13th) | Public voting will help reduce total Competitors to one (1) preliminary winner in each Group Finals group who will then advance to the Quarterfinals. |  |
 | 5b | Wildcard Round (November 14th and ends November 16th) | Those Competitors who took second (2nd) place in their respective Group Finals group will compete in a shortened round for a chance to advance to the Quarterfinals. Votes will be __reset__, and public voting will determine the top one (1) Competitor from each group who will then advance to the Quarterfinals. |   |
@@ -349,6 +349,67 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       </td>
       <td>Alex reports maintaining 🥇 in Round 3 of the Elton John AIDS Foundation Style Icon Contest and encourages daily votes and donations. Building on prior posts about HIV mRNA structure, he focuses on the “middle bits” — the open reading frame (ORF) classes that define which proteins each mRNA can produce. He explains that roughly 75% of HIV mRNAs come from the top three transcripts, while the remaining quarter encode key accessory proteins with critical but poorly understood timing and regulation. He hints that tomorrow’s post will explore how these patterns deepen our understanding of HIV’s complex mRNA landscape.</td>
     </tr>
+    <tr>
+      <td>3</td>
+      <td>5</td>
+      <td>2025-10-28</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1983393320777986554">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on October 28, 2025</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>6</td>
+      <td>2025-10-29</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1983751102102467047">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on October 29, 2025</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>7</td>
+      <td>2025-10-30</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1983393320777986554">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on October 30, 2025</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>1</td>
+      <td>2025-10-31</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1983393320777986554">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on October 31, 2025</td>
+    </tr>
+    
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-01</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 1, 2025</td>
+    </tr>
   </tbody>
 </table>
 
@@ -419,6 +480,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
 # Citations -->
 
 <!--
+
 <tr>
   <td></td>
   <td></td>
