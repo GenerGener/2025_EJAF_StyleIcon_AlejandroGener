@@ -398,8 +398,8 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on October 31, 2025</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>4</td>
+      <td>2</td>
       <td>2025-11-01</td>
       <td>
         <a href="https://facebook.com/">Facebook</a><br>
