@@ -373,6 +373,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       </td>
       <td>Planned posts for all platforms on October 29, 2025</td>
     </tr>
+    <!--
     <tr>
       <td>3</td>
       <td>7</td>
@@ -381,10 +382,11 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://facebook.com/">Facebook</a><br>
         <a href="https://instagram.com/">Instagram</a><br>
         <a href="https://linkedin.com/">LinkedIn</a><br>
-        <a href="https://x.com/Cas9Bandit/status/1983393320777986554">Twitter</a>
+        <a href="">Twitter</a>
       </td>
       <td>Planned posts for all platforms on October 30, 2025</td>
     </tr>
+    -->
     <tr>
       <td>4</td>
       <td>1</td>
