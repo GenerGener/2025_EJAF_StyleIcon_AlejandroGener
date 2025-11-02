@@ -354,60 +354,60 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>5</td>
       <td>2025-10-28</td>
       <td>
-        <a href="https://facebook.com/">Facebook</a><br>
-        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0ZD3R5Bjv2Fe7JfsBSwrd9NvcKebCaNmV2dKE1gEjJyK9PV31WrrzGRXyS6fTPC9Tl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQYMVS3DF26/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
         <a href="https://www.linkedin.com/posts/activity-7389138779070111744-Nat-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1983393320777986554">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on October 28, 2025</td>
+      <td>Alex reports holding 🥇 in Round 3 of the Elton John AIDS Foundation Style Icon Contest and thanks supporters for voting and donating. Shifting focus back to HIV science, he discusses what makes HIV 5′ untranslated regions (UTRs) unique. Drawing from IAS 2021 data, he reviews how specific host RNA-binding proteins (RBPs)—notably EIF4B, SFRS1, and RBMX—interact with HIV transcripts. These proteins are consistently found across all HIV-1 mRNA Atlas v1 models, implying HIV’s sequences are highly attractive to host translation machinery. Alex notes that while these predictions can be modeled computationally, experimental validation remains essential—underscoring HIV’s “sneaky” efficiency in hijacking host cell systems.</td>
     </tr>
     <tr>
       <td>3</td>
       <td>6</td>
       <td>2025-10-29</td>
       <td>
-        <a href="https://facebook.com/">Facebook</a><br>
-        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02DM6LLzFtJnBudBSN7bmA39iRzXKkP7pa4xPeWyf3Fz8343zbXsHTRvSFLf8F84M2l">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQbA0nHj188/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
         <a href="https://www.linkedin.com/posts/activity-7389537156270256128-yTl8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1983751102102467047">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on October 29, 2025</td>
+      <td>Alex celebrates maintaining 🥇 in Round 3 of the Elton John AIDS Foundation Style Icon Contest and encourages continued votes and donations. Building on the previous day’s discussion of RNA-binding proteins, he spotlights EIF4B—a host translation factor involved in RNA processing. Using GeneCards data, he compares EIF4B’s predicted structures: one in complex with other host RNAs and proteins, and another of the isolated protein. He explains that EIF4B’s flexible “noodly bits” help stabilize larger molecular assemblies, likening them to an “accent piece” that ties together an outfit—keeping his scientific education both visual and accessible.</td>
     </tr>
     <tr>
       <td>3</td>
       <td>7</td>
       <td>2025-10-30</td>
       <td>
-        <a href="https://facebook.com/">Facebook</a><br>
-        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0DjUvizWwtqnhiRGa7zizLL27iSBeL1QixGZcSJgfAW1qzKMACU6rQSbx75cw2jYwl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQi-nMoD0vx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
         <a href="https://www.linkedin.com/posts/activity-7390586033022824448-dfJe?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1984776691047375289">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on October 30, 2025</td>
+      <td>Alex shares that he’s still 🥇 in Round 3 of the Elton John AIDS Foundation Style Icon Contest and thanks supporters for voting and donating. Continuing his series on host RNA-binding proteins, he introduces SFRS1 (“Serine and Arginine Rich Splicing Factor 1”), noting its many aliases and the challenges of navigating inconsistent biological naming systems. He advises readers to use accession numbers and organism filters when cross-referencing scientific data, emphasizing the importance of precision in molecular biology. The post invites comparison between human SFRS1 and EIF4B (discussed on R3D6), highlighting their structural features and roles in RNA processing.</td>
     </tr>
     <tr>
       <td>4</td>
       <td>1</td>
       <td>2025-10-31</td>
       <td>
-        <a href="https://facebook.com/">Facebook</a><br>
-        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02SujW83FdC9mKMiT1GEtR82sCwCnjby22QKP4XUBtkaAJGMY3seFLF2YF8UspAorMl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQi_DP2D0pe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
         <a href="https://www.linkedin.com/posts/activity-7390587088829648896-qJJ7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1983393320777986554">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on October 31, 2025</td>
+      <td>Alex reports maintaining 🥇 at the start of Round 4 of the Elton John AIDS Foundation Style Icon Contest and thanks supporters for their continued votes and donations. He continues his exploration of host RNA-binding proteins, spotlighting RBMX (“RNA Binding Motif Protein X-Linked”). Through a humorous and conversational tone, he highlights a key pattern across human RBPs: they often interact with multiple other host factors, forming dense molecular networks that viruses exploit. He concludes with a tongue-in-cheek comparison—describing viruses as agents of controlled chaos in the body’s “37°C soup,” not unlike certain politicians.</td>
     </tr>
     <tr>
       <td>4</td>
       <td>2</td>
       <td>2025-11-01</td>
       <td>
-        <a href="https://facebook.com/">Facebook</a><br>
-        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02ZnZx8BYZbtJwCHtjft1ukZm2CPFUMbaExE7tEfg9N8YZgRyeRnpTo6dTacJyUsqxl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQi_49fjyG0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
         <a href="https://www.linkedin.com/posts/activity-7390589278705278976-Dmhj?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
         <a href="https://x.com/Cas9Bandit/status/1984790447835996265">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on November 1, 2025</td>
+      <td>Alex celebrates holding 🥇 in Round 4 of the Elton John AIDS Foundation Style Icon Contest and encourages continued votes and donations. He contrasts the vast diversity of host proteins with HIV’s minimal yet powerful genetic toolkit, noting that viruses exploit host machinery to reproduce. Using HIV reverse transcriptase (RT) and the drug zidovudine (AZT) as a case study, he explains how early antiviral research revealed how RT errors foster drug resistance and how AZT halts viral replication by blocking DNA chain extension. He emphasizes that while modern computational tools can accelerate discovery, experimental validation by skilled researchers remains essential—calling out “techbros” who mistake modeling for real science.</td>
     </tr>
   </tbody>
 </table>
