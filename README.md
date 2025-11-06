@@ -438,9 +438,9 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://instagram.com/">Instagram</a><br>
         <a href="https://linkedin.com/">LinkedIn</a><br>
         <a href="https://twitter.com/">Twitter</a>
-      </td> -->
-      <td>Planned posts for all platforms on November 6, 2025 (links will be activated in the evening of the 6th)</td>
-    </tr>
+      </td>
+      <td>Planned posts for all platforms on November 6, 2025</td>
+    </tr> -->
   </tbody>
 </table>
 
