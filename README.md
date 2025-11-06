@@ -1,4 +1,7 @@
+![250924_DemoDay_1262](https://github.com/user-attachments/assets/994fa5e4-039b-434f-b9e8-62113ff5161d)
+
 # 2025_EJAF_StyleIcon_AlejandroGener
+
 Style Icon (SI) + Heelbent campaign benefiting the Elton John AIDS Foundation (EJAF)
 
 # Pledge to prioritize Elton John AIDS Foundation over social media outlets
