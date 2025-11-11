@@ -4,9 +4,9 @@
 
 [**VOTE TODAY !**](https://styleicon.org/2025/alejandro-gener)
 
-</div>
-
 Tip: set a calendar reminder to come back at the same time!
+
+</div>
 
 # Style Icon (SI) + Heelbent campaign benefiting the Elton John AIDS Foundation (EJAF)
 
