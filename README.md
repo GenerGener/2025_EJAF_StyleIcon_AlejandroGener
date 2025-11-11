@@ -1,8 +1,10 @@
 ![250924_DemoDay_1262](https://github.com/user-attachments/assets/994fa5e4-039b-434f-b9e8-62113ff5161d)
 
-<center>
-  [VOTE TODAY!](https://styleicon.org/2025/alejandro-gener)
-</center>
+<div align="center">
+
+[**VOTE TODAY !**](https://styleicon.org/2025/alejandro-gener)
+
+</div>
 
 Tip: set a calendar reminder to come back at the same time!
 
