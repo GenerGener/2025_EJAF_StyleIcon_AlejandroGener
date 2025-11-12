@@ -33,7 +33,7 @@ If this resonates with you, please consider supporting my campaign by heading to
 
 During Round 1, I noticed folks potentially prioritizing visibility over meaningful engagement, perhaps missing the plot. In my opinion, the Style Icon contest’s main benefit should be to help folks talk about the needs of communities impacted by HIV, and helped by folks like EJAF. 
 
-As I was working on my SI campaign, I stumbled upon the occasional sponsored post from other Style Icon contestants. As in, folks were paying advertisers to spread their profiles. To each their own, but as a community member, my preference is to help direct funds toward EJAF, and secondarily to raise awareness about my independent HIV research program and startup I’m working to launch which directly addresses improved treatments and cures. 
+As I was working on my SI campaign, I stumbled upon the occasional sponsored post from other Style Icon contestants. As in, folks were paying advertisers to spread their profiles. To each their own, but as a community member, my preference is to help direct funds toward EJAF, and secondarily to raise awareness about my independent HIV research program and startup I’m working to launch which directly addresses improved treatments and cures for HIV and possibly other viruses. 
 
 __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask others to pay for sponsored posts on my behalf with any social media companies. All donations in support of my campaign should go through colossal.org for distribution to EJAF.__
 
