@@ -12,17 +12,18 @@ Tip: set a calendar reminder to come back at the same time!
 
 Hi!!! Thanks for stopping by my Style Icon daily(ish) post log. This GitHub repository documents my Style Icon Journey. 
 
-RE my style: I try to be practical, using significant items to help me share my story: I'm advancing my HIV research program & startup. Ask me about 'em!
+# What's my style?
+I try to be practical, using significant items to help me share my story: I'm advancing my HIV research program & startup. Ask me about 'em!
 
-## What makes your style stand out?
+## What makes my style stand out?
 
 My favorite pieces help me connect with important moments in my past. Whether it was mustering up courage to protest against discrimination during graduate training (which I wore black and yellow Asics a la Beatrix Kiddo), or black leather suspender harness I got at my first LA Pride, I shuffle between a set of favorite pieces that work like armor to ground me and remind me who I’m fighting for.
 
-## What’s your dream fashion moment?
+## What’s my dream "fashion" moment?
 
 My runway is in the lab. I hype myself up with my dance music soundtrack to help me move from hypothesis to data to results interpretations. My shows include local and international conferences where I share results from my HIV research program. My dream is to stand behind the International AIDS Society podium in the not-too-distant future and share evolution-proof antivirals and accessible cures for HIV.
 
-## What would you do with $20,000?
+## What would I do with $20,000?
 
 US HIV research funding has been derailed, with philanthropic orgs coming to the rescue. $20,000 would go directly toward helping me launch my startup Heelbent, and testing our lead assets: Rapunzels. We’re a new biotech based in Los Angeles with the ambitious goal of a future without viruses, including HIV. We don’t need yet another treatment for folks to worry about accessing. We need cures. At Heelbent, we’re targeting conserved viral Achilles’ heels to trip them up and help folks’ clear HIV.
 
