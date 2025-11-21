@@ -508,12 +508,10 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>3</td>
       <td>2025-11-09</td>
       <td>
-        <a href="https://facebook.com/">Facebook</a><br>
-        <a href="https://instagram.com/">Instagram</a><br>
-        <a href="https://linkedin.com/">LinkedIn</a><br>
-        <a href="https://twitter.com/">Twitter</a>
+        <a href="https://www.linkedin.com/posts/activity-7394274882999443456-GZ5I?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1988502293092737294?s=20">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on November 9, 2025</td>
+      <td>Alex shares a belated Day 3 update noting his team is still leading in Round 5 and encouraging daily votes and donations. He jokes about missing a day after falling down a productive “rabbit hole” exploring HIV reverse-transcriptase models, framing it as the kind of serendipity that has led to past discoveries while developing evolution-resistant antivirals. He adds caveats about AI structural tools being hypothesis-generators that still require physical validation, then launches into a MedEd breakdown of the K65R mutation, reviewing how lysine and arginine differ in charge and flexibility, how their R-groups affect protein interactions, and how RT’s polymerase and RNAse activities intersect with NRTI mechanisms. He explains how certain mutations might allow RNAse to undo NRTI-mediated chain termination, emphasizing adherence to meds and promising a deeper dive into K65R next.</td>
     </tr>
     <tr>
       <td>5</td>
