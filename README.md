@@ -203,9 +203,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>11</td>
       <td>2025-10-16</td>
       <td>
-        <!-- [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br> -->
         <a href="https://www.linkedin.com/posts/activity-7384813442018402304-hVFo?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a>
-        <!-- <br>[Twitter](https://twitter.com/) -->
       </td>
       <td>Round 1 results: We advanced to the next round and took 1st place out of 82 contestants in our group!</td>
     </tr>
