@@ -45,8 +45,8 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
 | 2 | Top 15 (begins October 16th and ends October 23rd) | Public voting will help reduce each group to the top fifteen (15) Competitors. | 1/20 -> 1/15 |
 | 3 | Top 10 (begins October 23rd and ends October 30th) | Public voting will help reduce each group to the top ten (10) Competitors. | 1/15 -> 1/10 |
 | 4 | Top 5 (begins October 30th and ends November 6th) |Public voting will help reduce each group to the top five (5) Competitors. | 1/10 -> 1/5 |
-| 5a | Group Finals (begin November 6th and end November 13th) | Public voting will help reduce total Competitors to one (1) preliminary winner in each Group Finals group who will then advance to the Quarterfinals. | 1/5 -> ?! |
-| 5b | Wildcard Round (November 14th and ends November 16th) | Those Competitors who took second (2nd) place in their respective Group Finals group will compete in a shortened round for a chance to advance to the Quarterfinals. Votes will be __reset__, and public voting will determine the top one (1) Competitor from each group who will then advance to the Quarterfinals. |   |
+| 5a | Group Finals (begin November 6th and end November 13th) | Public voting will help reduce total Competitors to one (1) preliminary winner in each Group Finals group who will then advance to the Quarterfinals. | 1/5 -> 2/5 |
+| 5b | Wildcard Round (November 14th and ends November 16th) | Those Competitors who took second (2nd) place in their respective Group Finals group will compete in a shortened round for a chance to advance to the Quarterfinals. Votes will be __reset__, and public voting will determine the top one (1) Competitor from each group who will then advance to the Quarterfinals. |  |
 | 6 | Quarterfinals (begin November 17th and end November 27th) | The top Competitors from each Group Finals/Wildcard Round group will be divided into Quarterfinals groups. Votes will be __reset__, and public voting will determine the top one (1) Quarterfinalist from each group who will then advance to the Semifinals. |  |
 | 7 | Semifinals (begin November 28th and end December 4th) | The top Competitors from each Quarterfinals group will be divided into Semifinals groups. Votes will be __reset__, and public voting will determine the top one (1) Semifinalist from each group who will then advance to the Finals. |  |
 | 8 | Finals (begin December 5th and end December 11th) | Votes will be __reset__, and public voting will determine which Finalist will be the winner of the 2025 Style Icon Competition (the “Public Choice Grand Prize Winner”). Public Choice Grand Prize Winner will be announced on or before December 26th , 2025. |  |
@@ -507,7 +507,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       </td>
       <td>Alex continues Round 5 of the Elton John AIDS Foundation Style Icon contest still in 🥇, thanking supporters and using humor to highlight a key scientific principle: avoiding bias. Revisiting his prior “pet hypothesis” about how reverse-transcriptase (RT) drug-resistance mutations might reduce binding to AZT, he explains that scientists must test—not fish for—data that fit their expectations. Using NVIDIA’s Boltz-2 NIM to model the second major RT mutation set (Pathway 2: D67N, K70R, T215F, K219Q/E), Alex finds that his original prediction wasn’t supported; instead, the data suggest far more complex molecular behavior beneath the surface. Mixing Italian phrases, levity, and candor, he underscores that science’s strength lies in letting evidence—not ego—drive conclusions.</td>
     </tr>
-    <!--<tr>
+    <tr>
       <td>5</td>
       <td>3</td>
       <td>2025-11-09</td>
@@ -542,20 +542,12 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://twitter.com/">Twitter</a>
       </td>
       <td>Planned posts for all platforms on November 11, 2025</td>
-    </tr>-->
+    </tr>
   </tbody>
 </table>
 
 -->
 
-Here you go — **the entire table reversed (bottom → top)** with **NO modifications except row order**, so you can paste directly back into GitHub.
-All HTML is intact.
-
----
-
-# 2025 Post Logs (Reversed Order)
-
-```html
 <table>
   <thead>
     <tr>
