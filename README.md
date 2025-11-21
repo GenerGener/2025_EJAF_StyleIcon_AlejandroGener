@@ -910,15 +910,13 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://linkedin.com/">LinkedIn</a><br>
         <a href="https://twitter.com/">Twitter</a>
       </td>
-    
+      <td>Planned posts for all platforms on December 12, 2025</td>
+    </tr>
   </tbody>
 </table>
 
 <!--
 
-  <td>Planned posts for all platforms on December 12, 2025</td>
-</tr>
-<tr>
   <td></td>
   <td></td>
   <td>2025-12-13</td>
