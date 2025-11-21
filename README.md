@@ -196,7 +196,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 10 update (posted belatedly) keeps the campaign’s first-place momentum and continues encouraging daily votes for the Elton John AIDS Foundation. Alex uses humor and analogies to teach readers about HIV RNA references—specifically the difference between <strong>proviral</strong> genomes and <strong>unspliced</strong> HIV RNA genomes. He explains how classic references like LANL’s <strong>HXB2</strong> (K03455) exhibit proviral “wings”, or more specifically flanking long terminal repeats sequences (LTR-HIV-LTR), while newer representations, such as the NCBI references AF033819.3/NC_001802.1, depict active HIV as “R-HIV-R” or the “centerfold” form. He emphasizes how annotation differences and LTR boundaries shape bioinformatic interpretation, teasing future posts about the biological importance of these repetitive regions.</td>
     </tr>
     <tr>
-      <td></td>
+      <td>11</td>
       <td>1</td>
       <td>11</td>
       <td>2025-10-16</td>
@@ -209,7 +209,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 11 marks the final day of Round 1 in the Style Icon contest, with Alex still holding first place and thanking supporters for their votes and donations to the Elton John AIDS Foundation. Returning to HIV science, he explains how HIV, like human genes, uses RNA splicing to rearrange its sequences and produce various viral components. While smaller RNAs encoding proteins like Tat, Rev, and Nef were characterized decades ago, much of the broader HIV RNA landscape remained incompletely defined until recently. The post encourages readers to “mind the gaps” and stay tuned for deeper insights on these uncharted transcript variations.</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td></td>
       <td>1</td>
       <td>11</td>
       <td>2025-10-16</td>
