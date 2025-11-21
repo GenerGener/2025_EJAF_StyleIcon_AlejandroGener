@@ -56,6 +56,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
 <table>
   <thead>
     <tr>
+      <th>Post</th>
       <th>Round</th>
       <th>Day</th>
       <th>YYYY_MM_DD</th>
@@ -67,6 +68,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
     <tr>
       <td>1</td>
       <td>1</td>
+      <td>1</td>
       <td>2025-10-06</td>
       <td>
         <a href="https://www.facebook.com/alxgener/posts/pfbid0savTN26zibB6vVnYVvxFHe428x6rfXgzcUEt8yuwQ1VSPWvv3er7ZBNyscwow26Tl">Facebook</a><br>
@@ -76,6 +78,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Kickoff post announcing participation in the Style Icon contest supporting the Elton John AIDS Foundation. Alex shares gratitude and humor about competing, encourages friends to vote and donate, and explains that any prize funds will go toward launching Heelbent, a Los Angeles–based biotech company developing curative antivirals beginning with HIV. The post introduces Heelbent’s mission of “a future without viruses,” connects Alex’s PhD work at Baylor on HIV research to the company’s vision, and invites readers to support both EJAF and Heelbent as complementary causes.</td>
     </tr>
     <tr>
+      <td>2</td>
       <td>1</td>
       <td>2</td>
       <td>2025-10-07</td>
@@ -88,6 +91,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 2 update celebrating first place in the Style Icon contest while continuing to raise votes and donations for the Elton John AIDS Foundation. Alex introduces the “Textbook HIV” series—educational posts drawn from his independent HIV research program—to highlight how outdated scientific models hinder understanding and progress. The post contrasts textbook simplifications with the evolving reality of HIV biology, previewing deeper insights to come during the campaign and connecting scientific literacy with broader public health and policy issues.</td>
     </tr>
     <tr>
+      <td>3</td>
       <td>1</td>
       <td>3</td>
       <td>2025-10-08</td>
@@ -100,6 +104,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 3 post continues the Style Icon campaign while maintaining first place and encouraging votes for the Elton John AIDS Foundation. Alex expands the “Textbook HIV” series, explaining why traditional HIV models are incomplete—specifically their omission of updated open reading frame (ORF) annotations. He shares “Figure 2: ‘Real’ HIV,” highlighting discoveries first presented at IAS 2021 that reveal previously unrecognized viral proteins. The post emphasizes how these findings reshape understanding of HIV biology and could influence future treatment and cure strategies.</td>
     </tr>
     <tr>
+      <td>4</td>
       <td>1</td>
       <td>4</td>
       <td>2025-10-09</td>
@@ -113,6 +118,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 4 post (slightly delayed) keeps momentum in the Style Icon contest while encouraging continued support for the Elton John AIDS Foundation. Alex explains how HIV and other viruses hijack the host’s molecular machinery to make viral proteins, introducing the basics of gene expression and reading frames in accessible language. Drawing on his PhD work, he describes how standardizing biologically relevant HIV mRNAs revealed that unspliced HIV RNA—long thought to be the main source of structural proteins—is actually rare. He references “Figure 3,” presented at the 2019 Nanopore Community Meeting and IAS 2021, showing that terminally spliced transcripts better explain observed protein production. The post underscores how updating mRNA models is key to advancing HIV cure research.</td>
     </tr>
     <tr>
+      <td>5</td>
       <td>1</td>
       <td>5</td>
       <td>2025-10-10</td>
@@ -125,6 +131,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 5 update celebrates maintaining first place in the Style Icon contest and continues promoting support for the Elton John AIDS Foundation. Alex introduces “Figure 4” and explores an advanced HIV research concept: alternative polyadenylation. He explains how RNA “tails” (polyA signals) affect transcript stability and protein production, using humor and accessible language to describe their biological significance. Drawing from his PhD work presented at IAS 2025, he notes that HIV transcripts often end at unexpected alternative polyA sites—suggesting either cellular defense mechanisms or viral adaptation. The post highlights how studying these patterns could reveal new antiviral insights and underscores the need for funding to continue this research.</td>
     </tr>
     <tr>
+      <td>6</td>
       <td>1</td>
       <td>6</td>
       <td>2025-10-11</td>
@@ -137,6 +144,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 6 update celebrates staying in first place and encourages continued daily votes and donations for the Elton John AIDS Foundation. Alex shifts focus from HIV mRNA “tails” to the “heads,” explaining the significance of the 5′ untranslated region (5′ UTR) in regulating viral translation. Referencing a 2013 review by Krebs et al., he contextualizes this region’s role across retroviral elements. Drawing from his own discoveries, Alex describes a novel class of HIV RNAs lacking the canonical 5′ R repeat—findings presented in “Figure 5” at IAS 2025. He suggests that these RNAs might resist reactivation by current “wake-up” strategies such as Tat-based LNP stimulation, emphasizing the importance of studying these overlooked transcript variants to advance HIV cure strategies.</td>
     </tr>
     <tr>
+      <td>7</td>
       <td>1</td>
       <td>7</td>
       <td>2025-10-12</td>
@@ -149,6 +157,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 7 post maintains first place in the Style Icon contest and shifts from scientific discussion to a reflective look at community engagement and authenticity. Alex thanks supporters for voting and donating to the Elton John AIDS Foundation, emphasizing that HIV science should be accessible and meaningful. He redefines “style” as integrity and impact—how one shows up and inspires thought beyond appearances. The post critiques performative visibility and paid promotion, committing instead to organic engagement and transparency, with all donations directed through Colossal.org to EJAF. Alex closes by connecting his scientific, advocacy, and entrepreneurial “hats,” reaffirming his mission to advance HIV research and build Heelbent ethically and visibly within the community.</td>
     </tr>
     <tr>
+      <td>8</td>
       <td>1</td>
       <td>8</td>
       <td>2025-10-13</td>
@@ -523,7 +532,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://linkedin.com/">LinkedIn</a><br>
         <a href="https://twitter.com/">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on November 10, 2025</td>
+      <td>Post 35: </td>
     </tr>
     <tr>
       <td>5</td>
@@ -535,7 +544,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://linkedin.com/">LinkedIn</a><br>
         <a href="https://twitter.com/">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on November 11, 2025</td>
+      <td>Post 36</td>
     </tr>
     <tr>
       <td></td>
@@ -547,7 +556,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://linkedin.com/">LinkedIn</a><br>
         <a href="https://twitter.com/">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on November 12, 2025</td>
+      <td>Post 37</td>
     </tr>
     <tr>
       <td></td>
