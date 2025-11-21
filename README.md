@@ -916,12 +916,6 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
 
 <!--
 
-# Citations 
-
--->
-
-<!--
-
   <td>Planned posts for all platforms on December 12, 2025</td>
 </tr>
 <tr>
