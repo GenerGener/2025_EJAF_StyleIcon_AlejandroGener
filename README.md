@@ -551,8 +551,8 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       </td>
       <td>Alex shares a belated Day 3 update noting his team is still leading in Round 5 and encouraging daily votes and donations. He jokes about missing a day after falling down a productive “rabbit hole” exploring HIV reverse-transcriptase models, framing it as the kind of serendipity that has led to past discoveries while developing evolution-resistant antivirals. He adds caveats about AI structural tools being hypothesis-generators that still require physical validation, then launches into a MedEd breakdown of the K65R mutation, reviewing how lysine and arginine differ in charge and flexibility, how their R-groups affect protein interactions, and how RT’s polymerase and RNAse activities intersect with NRTI mechanisms. He explains how certain mutations might allow RNAse to undo NRTI-mediated chain termination, emphasizing adherence to meds and promising a deeper dive into K65R next.</td>
     </tr>
-    <tr>
-      <td>#</td>
+    <!--<tr>
+      <td>36</td>
       <td>5</td>
       <td>4</td>
       <td>2025-11-10</td>
@@ -562,26 +562,13 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://linkedin.com/">LinkedIn</a><br>
         <a href="https://twitter.com/">Twitter</a>
       </td>
-      <td>Post 35: </td>
-    </tr>
-    <tr>
-      <td>#</td>
-      <td>5</td>
-      <td>5</td>
-      <td>2025-11-11</td>
-      <td>
-        <a href="https://facebook.com/">Facebook</a><br>
-        <a href="https://instagram.com/">Instagram</a><br>
-        <a href="https://linkedin.com/">LinkedIn</a><br>
-        <a href="https://twitter.com/">Twitter</a>
-      </td>
       <td>Post 36</td>
     </tr>
     <tr>
-      <td>#</td>
-      <td></td>
-      <td></td>
-      <td>2025-11-12</td>
+      <td>37</td>
+      <td>5</td>
+      <td>5</td>
+      <td>2025-11-21</td>
       <td>
         <a href="https://facebook.com/">Facebook</a><br>
         <a href="https://instagram.com/">Instagram</a><br>
@@ -591,17 +578,30 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Post 37</td>
     </tr>
     <tr>
-      <td>#</td>
+      <td>38</td>
       <td></td>
       <td></td>
-      <td>2025-11-13</td>
+      <td>2025-11-22</td>
       <td>
         <a href="https://facebook.com/">Facebook</a><br>
         <a href="https://instagram.com/">Instagram</a><br>
         <a href="https://linkedin.com/">LinkedIn</a><br>
         <a href="https://twitter.com/">Twitter</a>
       </td>
-      <td>Planned posts for all platforms on November 13, 2025</td>
+      <td>Post 38</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td></td>
+      <td></td>
+      <td>2025-11-23</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Post 39</td>
     </tr>
     <tr>
       <td>#</td>
@@ -979,7 +979,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
         <a href="https://twitter.com/">Twitter</a>
       </td>
       <td>Planned posts for all platforms on December 12, 2025</td>
-    </tr>
+    </tr>-->
   </tbody>
 </table>
 
