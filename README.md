@@ -539,447 +539,389 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       </td>
       <td>Planned posts for all platforms on November 11, 2025</td>
     </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-12</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 12, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-13</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 13, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-14</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 14, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-15</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 15, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-16</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 16, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-17</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 17, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-18</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 18, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-19</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 19, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-20</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 20, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-21</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 21, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-22</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 22, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-23</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 23, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-24</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 24, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-25</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 25, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-26</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 26, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-27</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 27, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-28</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 28, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-29</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 29, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-11-30</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on November 30, 2025</td>
+    </tr>
+    
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-01</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on December 1, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-02</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on December 2, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-03</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on December 3, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-04</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on December 4, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-05</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on December 5, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-06</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on December 6, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-07</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on December 7, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-08</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on December 8, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-09</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on December 9, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-10</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on December 10, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-11</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+      <td>Planned posts for all platforms on December 11, 2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>2025-12-12</td>
+      <td>
+        <a href="https://facebook.com/">Facebook</a><br>
+        <a href="https://instagram.com/">Instagram</a><br>
+        <a href="https://linkedin.com/">LinkedIn</a><br>
+        <a href="https://twitter.com/">Twitter</a>
+      </td>
+    
   </tbody>
 </table>
 
 <!--
-|  |  | 2025-10-28 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 28, 2025 |
-|  |  | 2025-10-29 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 29, 2025 |
-|  |  | 2025-10-30 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 30, 2025 |
-|  |  | 2025-10-31 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on October 31, 2025 |
-| 2025-11-01 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 1, 2025 |
-| 2025-11-02 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 2, 2025 |
-| 2025-11-03 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 3, 2025 |
-| 2025-11-04 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 4, 2025 |
-| 2025-11-05 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 5, 2025 |
-| 2025-11-06 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 6, 2025 |
-| 2025-11-07 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 7, 2025 |
-| 2025-11-08 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 8, 2025 |
-| 2025-11-09 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 9, 2025 |
-| 2025-11-10 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 10, 2025 |
-| 2025-11-11 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 11, 2025 |
-| 2025-11-12 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 12, 2025 |
-| 2025-11-13 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 13, 2025 |
-| 2025-11-14 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 14, 2025 |
-| 2025-11-15 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 15, 2025 |
-| 2025-11-16 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 16, 2025 |
-| 2025-11-17 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 17, 2025 |
-| 2025-11-18 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 18, 2025 |
-| 2025-11-19 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 19, 2025 |
-| 2025-11-20 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 20, 2025 |
-| 2025-11-21 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 21, 2025 |
-| 2025-11-22 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 22, 2025 |
-| 2025-11-23 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 23, 2025 |
-| 2025-11-24 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 24, 2025 |
-| 2025-11-25 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 25, 2025 |
-| 2025-11-26 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 26, 2025 |
-| 2025-11-27 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 27, 2025 |
-| 2025-11-28 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 28, 2025 |
-| 2025-11-29 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 29, 2025 |
-| 2025-11-30 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on November 30, 2025 |
-| 2025-12-01 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 1, 2025 |
-| 2025-12-02 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 2, 2025 |
-| 2025-12-03 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 3, 2025 |
-| 2025-12-04 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 4, 2025 |
-| 2025-12-05 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 5, 2025 |
-| 2025-12-06 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 6, 2025 |
-| 2025-12-07 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 7, 2025 |
-| 2025-12-08 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 8, 2025 |
-| 2025-12-09 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 9, 2025 |
-| 2025-12-10 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 10, 2025 |
-| 2025-12-11 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 11, 2025 |
-| 2025-12-12 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 12, 2025 |
-| 2025-12-13 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 13, 2025 |
-| 2025-12-14 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 14, 2025 |
-| 2025-12-15 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 15, 2025 |
-| 2025-12-16 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 16, 2025 |
-| 2025-12-17 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 17, 2025 |
-| 2025-12-18 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 18, 2025 |
-| 2025-12-19 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 19, 2025 |
-| 2025-12-20 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 20, 2025 |
-| 2025-12-21 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 21, 2025 |
-| 2025-12-22 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 22, 2025 |
-| 2025-12-23 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 23, 2025 |
-| 2025-12-24 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 24, 2025 |
-| 2025-12-25 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 25, 2025 |
-| 2025-12-26 | [Facebook](https://facebook.com/)<br>[Instagram](https://instagram.com/)<br>[LinkedIn](https://linkedin.com/)<br>[Twitter](https://twitter.com/) | Planned posts for all platforms on December 26, 2025 |
 
+# Citations 
 
-# Citations -->
+-->
 
 <!--
 
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-12</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 12, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-13</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 13, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-14</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 14, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-15</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 15, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-16</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 16, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-17</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 17, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-18</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 18, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-19</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 19, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-20</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 20, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-21</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 21, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-22</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 22, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-23</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 23, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-24</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 24, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-25</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 25, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-26</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 26, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-27</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 27, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-28</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 28, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-29</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 29, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-11-30</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on November 30, 2025</td>
-</tr>
-
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-01</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on December 1, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-02</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on December 2, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-03</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on December 3, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-04</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on December 4, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-05</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on December 5, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-06</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on December 6, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-07</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on December 7, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-08</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on December 8, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-09</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on December 9, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-10</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on December 10, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-11</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
-  <td>Planned posts for all platforms on December 11, 2025</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td>2025-12-12</td>
-  <td>
-    <a href="https://facebook.com/">Facebook</a><br>
-    <a href="https://instagram.com/">Instagram</a><br>
-    <a href="https://linkedin.com/">LinkedIn</a><br>
-    <a href="https://twitter.com/">Twitter</a>
-  </td>
   <td>Planned posts for all platforms on December 12, 2025</td>
 </tr>
 <tr>
