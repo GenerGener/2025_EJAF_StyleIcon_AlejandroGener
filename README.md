@@ -53,6 +53,8 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
 
 # 2025 Post Logs
 
+<!--
+
 <table>
   <thead>
     <tr>
@@ -541,6 +543,506 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       </td>
       <td>Planned posts for all platforms on November 11, 2025</td>
     </tr>-->
+  </tbody>
+</table>
+
+-->
+
+Here you go — **the entire table reversed (bottom → top)** with **NO modifications except row order**, so you can paste directly back into GitHub.
+All HTML is intact.
+
+---
+
+# 2025 Post Logs (Reversed Order)
+
+```html
+<table>
+  <thead>
+    <tr>
+      <th>Round</th>
+      <th>Day</th>
+      <th>YYYY_MM_DD</th>
+      <th>Platforms</th>
+      <th>Content Summary (GPT 5 based on LinkedIn post text)</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td>5</td>
+      <td>2</td>
+      <td>2025-11-08</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0Y5xZaTEYdTLTtALaewXsHEbhSYzqNFGnTKouzXDxqKz7vtuiMEoAAnBdVHTJtxf7l">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQ1EdJBgSkm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7393201492951961600-2XNa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1987430029538828367?s=20">Twitter</a>
+      </td>
+      <td>Alex continues Round 5 … letting evidence—not ego—drive conclusions.</td>
+    </tr>
+
+    <tr>
+      <td>5</td>
+      <td>1</td>
+      <td>2025-11-07</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0zzgREn9jxb46X1nujpKJTfkLwFJaQnJDJca6vsWoqiVxDn3dYvd57nLV3sGadr8bl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQ1CmmHAcHO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7393200159423160320-xAnZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1987422852245831897?s=20">Twitter</a>
+      </td>
+      <td>Alex opens Round 5 … reminding readers that funding research like Heelbent’s HIV-cure efforts depends on their ongoing support.</td>
+    </tr>
+
+    <tr>
+      <td>5</td>
+      <td>1</td>
+      <td>2025-11-07</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02KJXiFKSSVi9okf4Bq7uP72XW1V5tiP9zAGvPnr6DPGPT5ygJ5rS4yDRiX6NVTf2Cl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQxkUQzjzWA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7392698745236197376-etMp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1986934421417853170?s=20">Twitter</a>
+      </td>
+      <td>Pausing to reflect on November 7, 2025</td>
+    </tr>
+
+    <tr>
+      <td>4</td>
+      <td>7</td>
+      <td>2025-11-06</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0GFwNHbHvv3yUERo8yk7YjQnm1zccbipi7arf9ZUjRDM4WY7zunrtvPwmfocwUbPwl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQu0iPljSIl/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7392324900960645120-rU9W?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1986555356936622492?s=20">Twitter</a>
+      </td>
+      <td>Alex celebrates holding 🥇 … pushing scientific and funding limits.</td>
+    </tr>
+
+    <tr>
+      <td>4</td>
+      <td>6</td>
+      <td>2025-11-05</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02783fQNwaA2aKCy7vyKF5NdEFc2RVj4pToNC2kwvE53g4k1xA94btgcFqdB1ECaf9l">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQtMzJglRqa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7392096504754229249-soId?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1986323420909609203">Twitter</a>
+      </td>
+      <td>Alex celebrates maintaining 🥇 … promising to “share the tea.”</td>
+    </tr>
+
+    <tr>
+      <td>4</td>
+      <td>5</td>
+      <td>2025-11-04</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02WcDy8FkViBe3e1BRYoguQabXFfNHj9XdCCgtpLwqe6hUMEgt28a2rvNLGHXqDjRHl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQqnCKtF-zC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7391732254391267329-lf09?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1985945083234169339">Twitter</a>
+      </td>
+      <td>Alex celebrates staying 🥇 … the ultimate goal is accessible, curative therapies.</td>
+    </tr>
+
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>2025-11-03</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0cygad6vDpK7vGsQrDGZSnApkz9LpbtqvVumHnx2Y6iqUpKdjV4HAQPQ6HLbV7DJJl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQnnHHwDSG8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7391310290795159552-HgI0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1985541705454797094">Twitter</a>
+      </td>
+      <td>Alex reports holding 🥇 … viruses are persistent “frenemies.”</td>
+    </tr>
+
+    <tr>
+      <td>4</td>
+      <td>3</td>
+      <td>2025-11-02</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid021yFMV7dHyfJ9CfuL1fsAHnuhLDDyDSFiXGujtW7XHyuLzKPKdxx3NpeYZ9xVrvQwl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQlfQzVj6nU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7391010668579123200-IuDt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1985236155911307327">Twitter</a>
+      </td>
+      <td>Alex celebrates staying 🥇 … blending science education with wit.</td>
+    </tr>
+
+    <tr>
+      <td>4</td>
+      <td>2</td>
+      <td>2025-11-01</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02ZnZx8BYZbtJwCHtjft1ukZm2CPFUMbaExE7tEfg9N8YZgRyeRnpTo6dTacJyUsqxl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQi_49fjyG0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7390589278705278976-Dmhj?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1984790447835996265">Twitter</a>
+      </td>
+      <td>Alex celebrates holding 🥇 … experimental validation by skilled researchers remains essential.</td>
+    </tr>
+
+    <tr>
+      <td>4</td>
+      <td>1</td>
+      <td>2025-10-31</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02SujW83FdC9mKMiT1GEtR82sCwCnjby22QKP4XUBtkaAJGMY3seFLF2YF8UspAorMl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQi_DP2D0pe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7390587088829648896-qJJ7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1983393320777986554">Twitter</a>
+      </td>
+      <td>Alex reports maintaining 🥇 … viruses as agents of controlled chaos.</td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>7</td>
+      <td>2025-10-30</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0DjUvizWwtqnhiRGa7zizLL27iSBeL1QixGZcSJgfAW1qzKMACU6rQSbx75cw2jYwl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQi-nMoD0vx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7390586033022824448-dfJe?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1984776691047375289">Twitter</a>
+      </td>
+      <td>Alex shares that he’s still 🥇 … emphasizing the importance of precision in molecular biology.</td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>6</td>
+      <td>2025-10-29</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02DM6LLzFtJnBudBSN7bmA39iRzXKkP7pa4xPeWyf3Fz8343zbXsHTRvSFLf8F84M2l">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQbA0nHj188/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7389537156270256128-yTl8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1983751102102467047">Twitter</a>
+      </td>
+      <td>Alex celebrates maintaining 🥇 … EIF4B’s flexible “noodly bits.”</td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>5</td>
+      <td>2025-10-28</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0ZD3R5Bjv2Fe7JfsBSwrd9NvcKebCaNmV2dKE1gEjJyK9PV31WrrzGRXyS6fTPC9Tl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQYMVS3DF26/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7389138779070111744-Nat-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1983393320777986554">Twitter</a>
+      </td>
+      <td>Alex reports holding 🥇 … HIV’s sequences are highly attractive to host translation machinery.</td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>4</td>
+      <td>2025-10-27</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid037w7N8vJAcpf4woXMVoxQ3BxA8UwA1D1yjnsY86Jm4vuCXUJ4oKxGHMhffR6c1jerl">Facebook_single</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid023mKWdsiSbaAsahTxK1oqf3y1QX4s54i7dNYCPcqwwACsUUmb21Vx8xv5qjXc1kLRl">Facebook_1of2</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0iaUBJFTrZ3pLVpWXxpUaQKgN6DtDkZnmcJak9wAoFovUYKqMDLCRiYW8pLiV9nCwl">Facebook_2of2</a><br>
+        <a href="https://www.instagram.com/p/DQVxbcTEXJi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_1of2</a><br>
+        <a href="https://www.instagram.com/p/DQVxi32kXzj/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_2of2</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7388789515135594496-2OEq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1982967898965684317">Twitter</a>
+      </td>
+      <td>Alex reports maintaining 🥇 … hinting tomorrow’s exploration of mRNA patterns.</td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>3</td>
+      <td>2025-10-26</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0mtMKSn31f2sgJuQAyJHBGKGidFhjepzEwDpG8SCAgzopnj3KGVKCjqPXCMmSsYJjl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQUJ-SlEVSz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7388572102074908672-Q0in?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1982639211015750065">Twitter</a>
+      </td>
+      <td>Alex celebrates holding 🥇 … UTR Classes help bring order to HIV’s transcript landscape.</td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>2</td>
+      <td>2025-10-25</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02wGypb2MpAPr1fvw7CmSuMmYyoBvBojj44DYRGt8cxawyYTkzFfFuECyv4kFoU56Rl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQUI4WbEeqe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7388570819402252289-kfgM?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1982206918585123052">Twitter</a>
+      </td>
+      <td>Throwback to Oct 25 — Alex urges continued votes … critique of narrow HIV research funding.</td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>1</td>
+      <td>2025-10-24</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid033ucrG4B9inYpmTeckzGxpqUw52FUdvtYufgfton2MNJzkzd8qDW8rV85xrHoHekKl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQVs1hRDDjC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7388789515135594496-2OEq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1981635951547105530">Twitter</a>
+      </td>
+      <td>Kicking off Round 3 … a markedly different Nef hypothesis ready to test.</td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+      <td>7</td>
+      <td>2025-10-23</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0tH1Swh3hBb4zVCVF2FFb3sWfctbRiZQovrtas8UEDjsiXypDkezAvGTDoCYgKhTyl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQJVwWejfjR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7387049542451585025-0yHT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1981257355368288268">Twitter</a>
+      </td>
+      <td>Day 7 concludes Round 2 … surprising feature that challenges textbook assumptions.</td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+      <td>6</td>
+      <td>2025-10-22</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02JimyhE5AgD4wwBssVPzXg4TasXkBcFPPzDaxHRHZS1NjCnN53vHR3i1fbaDRpMAGl">Facebook_single</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02n6UL2pGjS85fEkRDCzLrgo2BRgMFfzT22fKFHKEYvZvchyidBGT1r7Qi7oBomdE1l">Facebook_1of4</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0S5a3AUUaBPH3QDtnJibNguEenDPFiLBnyXkcf5rh8fXp4NXgJ8F6uqKLaPKhsbWxl">Facebook_2of4</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0WkxTzYVf8hmqPPTaPyU4kGn5GuSUoALvFmZLUYXxTZYHTPgFfuHiXGTXrr2ZpmxRl">Facebook_3of4</a><br>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0wcCis9jQpsSneFLWN3iZzdbd3M9xmZ6bSyWNaX4g6cunY4tXnMCKPzbifMjmjDiXl">Facebook_4of4</a><br>
+        <a href="https://www.instagram.com/p/DQTVOgIEd5_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_1of4</a><br>
+        <a href="https://www.instagram.com/p/DQTWVxCEYLN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_2of4</a><br>
+        <a href="https://www.instagram.com/p/DQTWmCmkZKL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_3of4</a><br>
+        <a href="https://www.instagram.com/p/DQTXDFXERWK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram_4of4</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7388452296818380800-7Vbx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1981163947790389319">Twitter</a>
+      </td>
+      <td>Throwback to Day 6 … symbolic white coat stitched with his med-school patch.</td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+      <td>5</td>
+      <td>2025-10-21</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0JPZ83Wiq9yieZmZvw7JK8RB7d4q56wLmcCxh7kKh97gR895bbeNeLrR7PDtyhvZ3l">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQGowV3gb8O/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7386669374192943104-g53n?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1980891414998483068">Twitter</a>
+      </td>
+      <td>Nef expression is a universal feature of HIV biology and worthy of renewed attention.</td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+      <td>4</td>
+      <td>2025-10-20</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0z7ESvb6pBh5Yy1JC8FEk9XqoJPmTP6SdHcSHKsYkkHa6XvEA2Kx1HSAUzDyxHx13l">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQDmE8OgcGr/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7386241281066242049-hOwD?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1980457867032555745">Twitter</a>
+      </td>
+      <td>Day 4 update … understanding HIV’s information flow.</td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+      <td>3</td>
+      <td>2025-10-19</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0uVZLEcc6urN5RnNMK7UZfspR28SA9LVXN4UkfbuFtSxjBsWfgPG5o3t8RkVadwM7l">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DQDlfjEgYxm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7386239926436036608-GE7_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1980442245955481621">Twitter</a>
+      </td>
+      <td>Belated Day 3 … introduces concept of “PCR ghosts.”</td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>2025-10-18</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02vUM5G1or589vmPbJqGww2d77mFwCEsX1MnqDemoNyPisET7WuGk7bbiiRVsrCzjAl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DP-HgougeJJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7385470088604311552-blJj?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1979698146478579980">Twitter</a>
+      </td>
+      <td>Day 2 of Round 2 … reanalysis revealed abundant spliced HIV mRNAs.</td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+      <td>1</td>
+      <td>2025-10-17</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02eJn4SsmaBHTworS6LNrLJPR3v4cbVicQjSRjWmS8WE7jUgfT7d65NoaKaUHAoESJl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DP7GEDvAfqy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7385046635216687104-jPzG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1979273133963251931">Twitter</a>
+      </td>
+      <td>Day 1 of Round 2 … every life affected represents a full human story.</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>11</td>
+      <td>2025-10-16</td>
+      <td>
+        <a href="https://www.linkedin.com/posts/activity-7384813442018402304-hVFo?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a>
+      </td>
+      <td>Round 1 results: We advanced to the next round and took 1st place out of 82 contestants in our group!</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>11</td>
+      <td>2025-10-16</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0oM6JQkkiKHwpNZ9M14EUhgfxsk9rZNvuG17KAU2cNwJGnd8vZwvT6USgNKW9anjJl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DP5XNLhAXsp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/alejandrogener_hiv-rna-share-7384790387925737472-r_xP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1978993820151771587">Twitter</a>
+      </td>
+      <td>Day 11 marks the final day of Round 1 … “mind the gaps.”</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>10</td>
+      <td>2025-10-15</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02tizgEMNtJsdDY7ERNQDrB4V4NRUmEZrbFSEnfX7auqjGhg3BiNZtV48oHbdyaCnRl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DP5WPFAgfjr/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/alejandrogener_hiv-rna-mrna-share-7384788283517620224-LhW3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1978987098368622822">Twitter</a>
+      </td>
+      <td>Day 10 update … teasing future posts about the importance of LTR regions.</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>9</td>
+      <td>2025-10-14</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02yDgHFBNWy3s1n7FpBuJ367fiLbyT8cMcvm9xuK2hFiWrbBCcqwm1oSz2HCyimbxsl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DP0XT63ARxK/?utm_source=ig_web_copy_link">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7384099216413044736-ZnUe?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1978260604348514531">Twitter</a>
+      </td>
+      <td>Day 9 … reaffirming Heelbent’s mission to resolve biological unknowns.</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>8</td>
+      <td>2025-10-13</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02GjLGoDJiEjVnL91vPq3LQ4KetbW6hcVUtfaphSGgAS58NZZUWUzr5u74xcGJx4mNl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DPxSmKFgR-b/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7383665140254220288-f2fk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1977893080205500926">Twitter</a>
+      </td>
+      <td>Day 8 … HIV’s first “centerfold” via direct RNA sequencing.</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>2025-10-12</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0BNjua3jqPLNRDgGKHJmxmrMzoVZmkkYvLGA8Z5MagCTrJ8nqSE8fh2DRzvYJMZkEl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DPvlqP3Ab79/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7383348978995781632-Hph4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1977570002225242209">Twitter</a>
+      </td>
+      <td>Day 7 … redefining “style” as integrity and impact.</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>6</td>
+      <td>2025-10-11</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid08a8JaGwR3bLnCHZ8juF4VPNwdmgx6gQu7XiVK7sPnJ5Xcu4kxt4Wx1S6iSBimzPfl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DPsJYJGgRSy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7382940700281098240-SUqN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1977139888412901619">Twitter</a>
+      </td>
+      <td>Day 6 … novel class of RNAs lacking the canonical 5′ R repeat.</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>2025-10-10</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02Az8frscKnKHoKYJbZ6bXtAPzAqCLYDtsjTpwfBERxGfyUzZtejZnMLuGbbp5t7knl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DPp-j1xgYRh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7382635460248047616-4tFS?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1976867866583745001">Twitter</a>
+      </td>
+      <td>Day 5 … alternative polyadenylation and “tail” biology.</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>2025-10-09</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02qTQRwabjJQnwvFBPds6xisejr4gNuR9iYc2Nfr1foUzu4hf3M8akLpizCRAE9Ssbl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DPpSmO9AX1f/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram 1/2</a><br>
+        <a href="https://www.instagram.com/p/DPpTPsKEqb1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram 2/2</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7382497328378671104-PM6g?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1976535179746476216">Twitter</a>
+      </td>
+      <td>Day 4 … unspliced HIV RNA is actually rare; terminally spliced transcripts dominate.</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>2025-10-08</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0LWjiKbU6mHmySNuSSC9VEead2NKGKKg4kewGDvp4jFoqg9UwsBqecAWLEBCwDam6l">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DPlDdFsgQnE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7381942793071616000-0yED?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1976155530075963680">Twitter</a>
+      </td>
+      <td>Day 3 … “Real HIV” Figure 2 and newly recognized viral proteins.</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>2025-10-07</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid02hKWPQckTydoKpPAFFrGKbMHzLzJWfRqfMNy3enc5FaiPAG2usHi5HJcXnPmxg2JCl">Facebook</a><br>
+        <a href="https://www.instagram.com/p/DPhx93Wjl8h/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7381479809178284032-boNY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1975689053321503017">Twitter</a>
+      </td>
+      <td>Day 2 … “Textbook HIV” series begins.</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>2025-10-06</td>
+      <td>
+        <a href="https://www.facebook.com/alxgener/posts/pfbid0savTN26zibB6vVnYVvxFHe428x6rfXgzcUEt8yuwQ1VSPWvv3er7ZBNyscwow26Tl">Facebook</a><br>
+        <a href="https://www.linkedin.com/posts/activity-7381015098250711040-HIGk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA0YQ2sB5-wumqokY-mdAq2VJ48AlZYOgRY">LinkedIn</a><br>
+        <a href="https://x.com/Cas9Bandit/status/1975250355882762742">Twitter</a>
+      </td>
+      <td>Kickoff post announcing participation in Style Icon … Heelbent’s mission of “a future without viruses.”</td>
+    </tr>
+
   </tbody>
 </table>
 
