@@ -502,7 +502,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex celebrates holding 🥇 on the last day of Round 4 in the Elton John AIDS Foundation Style Icon Contest, thanking supporters for their ongoing votes and donations. Responding to a playful prompt about his previous “salty” post, he leans into the pun—turning it into a mini science lesson about salts, ions, and magnesium’s biological role in both human physiology and viral replication. He explains that salts like Mg²⁺ are essential for life, helping neurons fire and proteins maintain structure—but also serving as key cofactors for HIV’s reverse transcriptase (RT) enzyme. RT depends on magnesium to align incoming nucleotides for incorporation into viral DNA, making it an important target for antiviral development. Balancing humor (“STARES LOUDLY IN UNFUNDED SCIENCE”) with molecular insight, Alex underscores the broader challenge of curing viral infections: working within biological constraints while pushing scientific and funding limits </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td></td>
       <td>5</td>
       <td>1</td>
       <td>2025-11-07</td>
@@ -515,7 +515,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Pausing to reflect on November 7, 2025</td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>33</td>
       <td>5</td>
       <td>1</td>
       <td>2025-11-07</td>
@@ -528,7 +528,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex opens Round 5 of the Elton John AIDS Foundation Style Icon contest still holding 🥇, thanking supporters and urging continued votes and donations. He builds on prior discussions of HIV drug resistance by explaining how to read mutation notation (e.g., T215Y = threonine → tyrosine at position 215) and introduces two well-known reverse-transcriptase resistance pathways (T215Y/M41L/L210W and D67N/K70R/T215F/K219Q-E). Using GenBank MZ242719.1 (derived from pNL4-3) and NVIDIA’s Boltz-2 NIM to model RT bound to AZT and 3TC, he illustrates how these amino-acid substitutions may reduce hydrogen bonding and weaken ligand (drug) interactions, driving viral resistance. Defining ligands as molecular “keys” fitting enzyme “locks,” Alex mixes humor (“stay salty my friends”) with scientific insight, previewing that tomorrow’s post will test his predictions while reminding readers that funding research like Heelbent’s HIV-cure efforts depends on their ongoing support.</td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>34</td>
       <td>5</td>
       <td>2</td>
       <td>2025-11-08</td>
@@ -541,7 +541,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex continues Round 5 of the Elton John AIDS Foundation Style Icon contest still in 🥇, thanking supporters and using humor to highlight a key scientific principle: avoiding bias. Revisiting his prior “pet hypothesis” about how reverse-transcriptase (RT) drug-resistance mutations might reduce binding to AZT, he explains that scientists must test—not fish for—data that fit their expectations. Using NVIDIA’s Boltz-2 NIM to model the second major RT mutation set (Pathway 2: D67N, K70R, T215F, K219Q/E), Alex finds that his original prediction wasn’t supported; instead, the data suggest far more complex molecular behavior beneath the surface. Mixing Italian phrases, levity, and candor, he underscores that science’s strength lies in letting evidence—not ego—drive conclusions.</td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>35</td>
       <td>5</td>
       <td>3</td>
       <td>2025-11-09</td>
