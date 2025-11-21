@@ -170,6 +170,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 8 update celebrates maintaining first place in the Style Icon contest and thanks supporters for their ongoing votes and donations to the Elton John AIDS Foundation. Alex offers a short lesson in HIV history, distinguishing between the virus’s first “headshot” (1983, by Charlie Dauguet and colleagues at the Pasteur Institute). He explains his PhD achievement as the first to use Oxford Nanopore direct RNA sequencing to capture full-length unspliced HIV genomes from infected samples, visualized as salmon-colored reads: HIV's first “centerfold.” The post links to a preprint of the study and previews how these findings could inform future HIV treatment and cure strategies.</td>
     </tr>
     <tr>
+      <td>9</td>
       <td>1</td>
       <td>9</td>
       <td>2025-10-14</td>
@@ -182,6 +183,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 9 post continues the Style Icon campaign, maintaining first place and encouraging daily votes and donations for the Elton John AIDS Foundation. Alex explains the concept of <strong>HIV reference genomes</strong>—the foundational blueprints for all HIV treatment and cure research. He compares these genomic references to a “blank canvas” for scientific understanding, outlining key repositories such as the Los Alamos HIV Sequence Database and NCBI. He contrasts the canonical reference sequences (K03455 and AF033819.3/NC_001802.1) and their differing <strong>annotations</strong>, emphasizing how accurate feature mapping determines which viral proteins are studied and targeted by drugs. The post concludes by reaffirming Heelbent’s mission to resolve these remaining biological unknowns to enable an eventual HIV cure.</td>
     </tr>
     <tr>
+      <td>10</td>
       <td>1</td>
       <td>10</td>
       <td>2025-10-15</td>
@@ -194,6 +196,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 10 update (posted belatedly) keeps the campaign’s first-place momentum and continues encouraging daily votes for the Elton John AIDS Foundation. Alex uses humor and analogies to teach readers about HIV RNA references—specifically the difference between <strong>proviral</strong> genomes and <strong>unspliced</strong> HIV RNA genomes. He explains how classic references like LANL’s <strong>HXB2</strong> (K03455) exhibit proviral “wings”, or more specifically flanking long terminal repeats sequences (LTR-HIV-LTR), while newer representations, such as the NCBI references AF033819.3/NC_001802.1, depict active HIV as “R-HIV-R” or the “centerfold” form. He emphasizes how annotation differences and LTR boundaries shape bioinformatic interpretation, teasing future posts about the biological importance of these repetitive regions.</td>
     </tr>
     <tr>
+      <td>11</td>
       <td>1</td>
       <td>11</td>
       <td>2025-10-16</td>
@@ -206,6 +209,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 11 marks the final day of Round 1 in the Style Icon contest, with Alex still holding first place and thanking supporters for their votes and donations to the Elton John AIDS Foundation. Returning to HIV science, he explains how HIV, like human genes, uses RNA splicing to rearrange its sequences and produce various viral components. While smaller RNAs encoding proteins like Tat, Rev, and Nef were characterized decades ago, much of the broader HIV RNA landscape remained incompletely defined until recently. The post encourages readers to “mind the gaps” and stay tuned for deeper insights on these uncharted transcript variations.</td>
     </tr>
     <tr>
+      <td>12</td>
       <td>1</td>
       <td>11</td>
       <td>2025-10-16</td>
@@ -215,6 +219,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Round 1 results: We advanced to the next round and took 1st place out of 82 contestants in our group!</td>
     </tr>
     <tr>
+      <td>13</td>
       <td>2</td>
       <td>1</td>
       <td>2025-10-17</td>
@@ -227,6 +232,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 1 of Round 2 celebrates maintaining first place in the Style Icon contest and thanks supporters for continued votes and donations to the Elton John AIDS Foundation. Alex shifts focus from personal research to highlight EJAF’s real-world impact, explaining its mission in HIV prevention, education, care, and mental health support through an accessible “sieve and rice” analogy. Citing EJAF’s 2024 Annual Report, he notes the foundation’s reach—over half a million people served, nearly one million tested, tens of thousands started on PrEP, and widespread access to mental health care. The post underscores how every life affected represents a full human story, reminding readers of shared humanity and the importance of sustaining global HIV progress despite worsening social and political conditions.</td>
     </tr>
     <tr>
+      <td>14</td>
       <td>2</td>
       <td>2</td>
       <td>2025-10-18</td>
@@ -239,6 +245,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 2 of Round 2 continues the Style Icon campaign, with Alex still in first place and encouraging votes and donations to the Elton John AIDS Foundation. The post returns to HIV RNA biology (“Figure 8”) and recounts how Alex taught himself to perform long-read DNA and RNA sequencing using Oxford Nanopore Technologies devices and bioinformatics tools during his PhD. Between humor and reflection, he describes how early “centerfold” analyses missed key splicing events, later corrected after insights from the 2019 Nanopore Community Meeting. This reanalysis revealed abundant spliced HIV mRNAs—even in viral particles from cell supernatants—challenging assumptions about HIV’s transcriptional landscape and hinting at new biological implications.</td>
     </tr>
     <tr>
+      <td>15</td>
       <td>2</td>
       <td>3</td>
       <td>2025-10-19</td>
@@ -251,6 +258,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Belated Day 3 update maintains first place in the Style Icon contest and emphasizes progress toward “a more informed public and a future without viruses.” Alex discusses the origins of the HIV mRNA Atlas v1, which he created to help researchers focus on biologically relevant transcripts rather than experimental noise. He explains how early HIV studies, constrained by older methods, overlooked complex RNA species—what he calls “bad house music stuck on repeat.” Drawing on his own observations and reanalysis of public datasets, Alex reduced this “noise” to reveal clearer HIV mRNA patterns, introducing the concept of “PCR ghosts”—low-abundance RNAs that amplify disproportionately. He designed the Atlas using recurring sequence “wings” necessary for viral integration, offering new insight into HIV’s molecular architecture and setting up the next post on RNA “segmenting.”</td>
     </tr>
     <tr>
+      <td>16</td>
       <td>2</td>
       <td>4</td>
       <td>2025-10-20</td>
@@ -263,6 +271,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 4 update keeps the campaign in first place and thanks supporters for helping move closer to Heelbent’s launch while supporting the Elton John AIDS Foundation. Alex continues the scientific thread from the HIV mRNA Atlas, introducing the concept of locus segmentation—a standardized framework he developed to map which HIV gene segments appear in different RNA or protein forms. Using humor and accessible language, he explains how past HIV researchers often avoided studying splicing complexity, leading to overlooked patterns. Through his analysis, Alex identified 11 total HIV sequence segments, with segments 1, 9, and 11 being constitutive, as annotated in GenBank accessions MZ242719–MZ242757. He describes how this approach clarifies HIV’s information flow and may illuminate broader insights into gene regulation.</td>
     </tr>
     <tr>
+      <td>17</td>
       <td>2</td>
       <td>5</td>
       <td>2025-10-21</td>
@@ -275,6 +284,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 5 update reports that Alex remains in first place and reminds followers to vote and donate—especially noting that paid votes count double for a limited time. Returning to HIV molecular biology, he explores findings from the HIV mRNA Atlas regarding the virus’s “tail end.” By redefining HIV through locus segmentation, Alex observed that many viral proteins share overlapping genomic footprints, with Gag-Pol, Env, and Rev often spliced together in unexpected ways. The key exception is Nef, a small “negative factor” gene appended near the genome’s 3′ end, which helps infected cells evade immune detection through membrane association. The Atlas reveals that all version-1 HIV mRNAs include nef coding sequence—suggesting Nef expression is a universal feature of HIV biology and worthy of renewed attention.</td>
     </tr>
     <tr>
+      <td>18</td>
       <td>2</td>
       <td>6</td>
       <td>2025-10-22</td>
@@ -294,6 +304,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Throwback to Day 6, Round 2 (Oct 16): Alex shares a personal “patchwork” physician-scientist journey—from starting an MD at UCC in Puerto Rico to pivoting into a funded PhD at Baylor after institutional roadblocks. He reflects on systemic shortcomings in medicine and research, the resilience it took to keep showing up, and a symbolic white coat stitched with his med-school patch as a reminder to define his own path. Re-energized by discoveries that could help cure chronic viral infections, he thanks family and friends for support and invites readers to keep voting/donating to EJAF.</td>
     </tr>
     <tr>
+      <td>19</td>
       <td>2</td>
       <td>7</td>
       <td>2025-10-23</td>
@@ -306,6 +317,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Day 7 concludes Round 2 of the Style Icon contest with Alex still in first place and thanking supporters for their continued votes and donations to the Elton John AIDS Foundation. Returning to HIV molecular biology, he spotlights GenBank record MZ242721, the most abundant HIV mRNA species, which exclusively encodes the Nef protein. Alex explains how this record—viewable via both GenBank and graphical “track” formats—illustrates how locus segmentation clarifies mRNA composition, showing segments 1, 9, and 11 spliced together. He uses music and AV analogies to demystify genomic annotation layers, emphasizing how noncoding regions shape mRNA context while open reading frames produce proteins. The post notes that every transcript in the HIV mRNA Atlas includes part of the Psi packaging signal, a surprising feature that challenges long-held textbook assumptions about HIV RNA biology.</td>
     </tr>
     <tr>
+      <td>20</td>
       <td>3</td>
       <td>1</td>
       <td>2025-10-24</td>
@@ -318,6 +330,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Kicking off Round 3 after finishing Round 2 in 1st place 🥇, Alex asks for continued votes/donations and spotlights HIV-1 Nef. He explains why Nef is hard to study (disordered, membrane-associated) and contrasts “ordered” proteins with newer structure-prediction tools (e.g., AlphaFold). A throwback on Nef’s N-terminal myristoylation (membrane anchoring) sets up a modeling experiment that, despite limits (can’t natively model MYR or full bilayers), yields a markedly different hypothesis—now ready to be tested via comparative sequences and mutational studies, funding permitting.</td>
     </tr>
     <tr>
+      <td>21</td>
       <td>3</td>
       <td>2</td>
       <td>2025-10-25</td>
@@ -330,6 +343,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Throwback to Oct 25 — Round 3 Day 2 of the Elton John AIDS Foundation Style Icon Contest, still in 🥇! Alex urges continued votes/donations and reflects on Heelbent’s bold messaging strategy: dragging textbooks to pitches and even shouting through a megaphone to make the case for evolution-proof antivirals. He critiques how conventional HIV research and funding focus too narrowly on familiar territory, limiting real progress toward cures. Heelbent’s mission—“a future without viruses”—is paired with appreciation for EJAF’s ongoing work ensuring access to HIV and mental-health care. Photo credit: BioLabs San Diego.</td>
     </tr>
     <tr>
+      <td>22</td>
       <td>3</td>
       <td>3</td>
       <td>2025-10-26</td>
@@ -342,6 +356,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex celebrates holding 🥇 in Round 3 of the Elton John AIDS Foundation Style Icon Contest and thanks supporters for their continued votes and donations. He revisits the HIV mRNA Atlas, explaining that while all HIV mRNAs share a common 3′ tail, their 5′ ends show surprising variability—structured enough to suggest distinct “UTR Classes.” These classifications, first presented at IAS 2021, help bring order to HIV’s complex transcript landscape. He teases that understanding the middle regions of these mRNAs may further clarify how HIV regulates its gene expression, setting up the next day’s post.</td>
     </tr>
     <tr>
+      <td>23</td>
       <td>3</td>
       <td>4</td>
       <td>2025-10-27</td>
@@ -357,6 +372,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex reports maintaining 🥇 in Round 3 of the Elton John AIDS Foundation Style Icon Contest and encourages daily votes and donations. Building on prior posts about HIV mRNA structure, he focuses on the “middle bits” — the open reading frame (ORF) classes that define which proteins each mRNA can produce. He explains that roughly 75% of HIV mRNAs come from the top three transcripts, while the remaining quarter encode key accessory proteins with critical but poorly understood timing and regulation. He hints that tomorrow’s post will explore how these patterns deepen our understanding of HIV’s complex mRNA landscape.</td>
     </tr>
     <tr>
+      <td>24</td>
       <td>3</td>
       <td>5</td>
       <td>2025-10-28</td>
@@ -369,6 +385,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex reports holding 🥇 in Round 3 of the Elton John AIDS Foundation Style Icon Contest and thanks supporters for voting and donating. Shifting focus back to HIV science, he discusses what makes HIV 5′ untranslated regions (UTRs) unique. Drawing from IAS 2021 data, he reviews how specific host RNA-binding proteins (RBPs)—notably EIF4B, SFRS1, and RBMX—interact with HIV transcripts. These proteins are consistently found across all HIV-1 mRNA Atlas v1 models, implying HIV’s sequences are highly attractive to host translation machinery. Alex notes that while these predictions can be modeled computationally, experimental validation remains essential—underscoring HIV’s “sneaky” efficiency in hijacking host cell systems.</td>
     </tr>
     <tr>
+      <td>25</td>
       <td>3</td>
       <td>6</td>
       <td>2025-10-29</td>
@@ -381,6 +398,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex celebrates maintaining 🥇 in Round 3 of the Elton John AIDS Foundation Style Icon Contest and encourages continued votes and donations. Building on the previous day’s discussion of RNA-binding proteins, he spotlights EIF4B—a host translation factor involved in RNA processing. Using GeneCards data, he compares EIF4B’s predicted structures: one in complex with other host RNAs and proteins, and another of the isolated protein. He explains that EIF4B’s flexible “noodly bits” help stabilize larger molecular assemblies, likening them to an “accent piece” that ties together an outfit—keeping his scientific education both visual and accessible.</td>
     </tr>
     <tr>
+      <td>26</td>
       <td>3</td>
       <td>7</td>
       <td>2025-10-30</td>
@@ -393,6 +411,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex shares that he’s still 🥇 in Round 3 of the Elton John AIDS Foundation Style Icon Contest and thanks supporters for voting and donating. Continuing his series on host RNA-binding proteins, he introduces SFRS1 (“Serine and Arginine Rich Splicing Factor 1”), noting its many aliases and the challenges of navigating inconsistent biological naming systems. He advises readers to use accession numbers and organism filters when cross-referencing scientific data, emphasizing the importance of precision in molecular biology. The post invites comparison between human SFRS1 and EIF4B (discussed on R3D6), highlighting their structural features and roles in RNA processing.</td>
     </tr>
     <tr>
+      <td>27</td>
       <td>4</td>
       <td>1</td>
       <td>2025-10-31</td>
@@ -405,6 +424,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex reports maintaining 🥇 at the start of Round 4 of the Elton John AIDS Foundation Style Icon Contest and thanks supporters for their continued votes and donations. He continues his exploration of host RNA-binding proteins, spotlighting RBMX (“RNA Binding Motif Protein X-Linked”). Through a humorous and conversational tone, he highlights a key pattern across human RBPs: they often interact with multiple other host factors, forming dense molecular networks that viruses exploit. He concludes with a tongue-in-cheek comparison—describing viruses as agents of controlled chaos in the body’s “37°C soup,” not unlike certain politicians.</td>
     </tr>
     <tr>
+      <td>28</td>
       <td>4</td>
       <td>2</td>
       <td>2025-11-01</td>
@@ -417,6 +437,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex celebrates holding 🥇 in Round 4 of the Elton John AIDS Foundation Style Icon Contest and encourages continued votes and donations. He contrasts the vast diversity of host proteins with HIV’s minimal yet powerful genetic toolkit, noting that viruses exploit host machinery to reproduce. Using HIV reverse transcriptase (RT) and the drug zidovudine (AZT) as a case study, he explains how early antiviral research revealed how RT errors foster drug resistance and how AZT halts viral replication by blocking DNA chain extension. He emphasizes that while modern computational tools can accelerate discovery, experimental validation by skilled researchers remains essential—calling out “techbros” who mistake modeling for real science.</td>
     </tr>
     <tr>
+      <td>29</td>
       <td>4</td>
       <td>3</td>
       <td>2025-11-02</td>
@@ -429,6 +450,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex celebrates staying 🥇 in Round 4 of the Elton John AIDS Foundation Style Icon Contest and invites continued votes and donations. In a lively, humorous tone, he breaks down HIV biochemistry for non-scientists—focusing on enzymes as the “biological machines” that HIV drugs target. Using analogies like fabric shears and coworkers who “fail up,” he explains competitive inhibition and the mechanism of early antiretroviral drugs. He spotlights zidovudine (AZT)—the first HIV treatment approved in 1987—describing its origins as a cancer drug, its high toxicity, and the viral mutations that quickly limited its effectiveness. Alex then introduces lamivudine (3TC), a less toxic cytidine analog, which blocks HIV reverse transcriptase more safely and effectively. The post ends teasing tomorrow’s explanation of what “analog” means in molecular terms, blending science education, wit, and advocacy for continued HIV research.</td>
     </tr>
     <tr>
+      <td>30</td>
       <td>4</td>
       <td>4</td>
       <td>2025-11-03</td>
@@ -441,6 +463,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex reports holding 🥇 in Round 4 of the Elton John AIDS Foundation Style Icon Contest and keeps spirits high with humor and science outreach. Building on the previous post, he explains what “analogs” mean in the context of HIV treatment—chemicals that resemble natural DNA bases closely enough to trick viral enzymes. Using playful analogies (runny mascara, frenemies, and “anal logs”), he clarifies that AZT, a thymidine analog, can substitute for the “T” base during reverse transcription, halting viral replication but not without side effects. He emphasizes that although this strategy was humanity’s first antiviral approach against HIV, the virus quickly evolved resistance by mutating the drug-binding pocket. The post closes with a witty reminder that viruses are persistent “frenemies,” but ongoing scientific effort—like the work supported by EJAF—remains key to staying ahead of them.</td>
     </tr>
     <tr>
+      <td>31</td>
       <td>4</td>
       <td>5</td>
       <td>2025-11-04</td>
@@ -453,6 +476,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex celebrates staying 🥇 in Round 4 of the Elton John AIDS Foundation Style Icon Contest and encourages continued daily votes and donations. In this installment of his approachable HIV-science series, he explains why developing new nucleoside reverse transcriptase inhibitor (NRTI) drugs isn’t as simple as making one analog per DNA “letter.” He breaks down the chemistry of base analog activation, showing that reverse transcriptase (RT) mostly recognizes the phosphate backbone, not the base itself—likening RT to a “superficial diva.” Using humor and analogies (“Steel Magnolia jeans,” “Cries in unfunded HIV researcher”), Alex illustrates why drug activation steps matter and why early analogs often had unpredictable toxicity. He closes by noting that while older, harsher drugs are still used in resource-limited settings due to cost, the ultimate goal is accessible, curative therapies—the kind of innovation Heelbent aims to deliver.</td>
     </tr>
     <tr>
+      <td>32</td>
       <td>4</td>
       <td>6</td>
       <td>2025-11-05</td>
@@ -465,6 +489,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex celebrates maintaining 🥇 in Round 4 of the Elton John AIDS Foundation Style Icon Contest and thanks supporters for their continued votes and donations. Shifting from drug development to HIV genomic surveillance, he explains how public health labs use pol PCR sequencing to identify viral resistance mutations and guide personalized treatment plans. He contextualizes this with his own HIV research—referencing GenBank record MZ242719.1 and prior publications advocating for improved genomic monitoring and sample conservation. Alex critiques redundant research efforts that waste precious donor material and calls out how the Trump administration’s funding cuts to CDC, NIH, and HIV programs undermined progress. The post blends scientific insight with advocacy, urging renewed investment in HIV research and cure development, while promising to “share the tea” once more progress is made.</td>
     </tr>
     <tr>
+      <td>33</td>
       <td>4</td>
       <td>7</td>
       <td>2025-11-06</td>
@@ -477,6 +502,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex celebrates holding 🥇 on the last day of Round 4 in the Elton John AIDS Foundation Style Icon Contest, thanking supporters for their ongoing votes and donations. Responding to a playful prompt about his previous “salty” post, he leans into the pun—turning it into a mini science lesson about salts, ions, and magnesium’s biological role in both human physiology and viral replication. He explains that salts like Mg²⁺ are essential for life, helping neurons fire and proteins maintain structure—but also serving as key cofactors for HIV’s reverse transcriptase (RT) enzyme. RT depends on magnesium to align incoming nucleotides for incorporation into viral DNA, making it an important target for antiviral development. Balancing humor (“STARES LOUDLY IN UNFUNDED SCIENCE”) with molecular insight, Alex underscores the broader challenge of curing viral infections: working within biological constraints while pushing scientific and funding limits </td>
     </tr>
     <tr>
+      <td>34</td>
       <td>5</td>
       <td>1</td>
       <td>2025-11-07</td>
@@ -489,6 +515,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Pausing to reflect on November 7, 2025</td>
     </tr>
     <tr>
+      <td>35</td>
       <td>5</td>
       <td>1</td>
       <td>2025-11-07</td>
@@ -501,6 +528,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex opens Round 5 of the Elton John AIDS Foundation Style Icon contest still holding 🥇, thanking supporters and urging continued votes and donations. He builds on prior discussions of HIV drug resistance by explaining how to read mutation notation (e.g., T215Y = threonine → tyrosine at position 215) and introduces two well-known reverse-transcriptase resistance pathways (T215Y/M41L/L210W and D67N/K70R/T215F/K219Q-E). Using GenBank MZ242719.1 (derived from pNL4-3) and NVIDIA’s Boltz-2 NIM to model RT bound to AZT and 3TC, he illustrates how these amino-acid substitutions may reduce hydrogen bonding and weaken ligand (drug) interactions, driving viral resistance. Defining ligands as molecular “keys” fitting enzyme “locks,” Alex mixes humor (“stay salty my friends”) with scientific insight, previewing that tomorrow’s post will test his predictions while reminding readers that funding research like Heelbent’s HIV-cure efforts depends on their ongoing support.</td>
     </tr>
     <tr>
+      <td>36</td>
       <td>5</td>
       <td>2</td>
       <td>2025-11-08</td>
@@ -513,6 +541,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex continues Round 5 of the Elton John AIDS Foundation Style Icon contest still in 🥇, thanking supporters and using humor to highlight a key scientific principle: avoiding bias. Revisiting his prior “pet hypothesis” about how reverse-transcriptase (RT) drug-resistance mutations might reduce binding to AZT, he explains that scientists must test—not fish for—data that fit their expectations. Using NVIDIA’s Boltz-2 NIM to model the second major RT mutation set (Pathway 2: D67N, K70R, T215F, K219Q/E), Alex finds that his original prediction wasn’t supported; instead, the data suggest far more complex molecular behavior beneath the surface. Mixing Italian phrases, levity, and candor, he underscores that science’s strength lies in letting evidence—not ego—drive conclusions.</td>
     </tr>
     <tr>
+      <td>37</td>
       <td>5</td>
       <td>3</td>
       <td>2025-11-09</td>
@@ -523,6 +552,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Alex shares a belated Day 3 update noting his team is still leading in Round 5 and encouraging daily votes and donations. He jokes about missing a day after falling down a productive “rabbit hole” exploring HIV reverse-transcriptase models, framing it as the kind of serendipity that has led to past discoveries while developing evolution-resistant antivirals. He adds caveats about AI structural tools being hypothesis-generators that still require physical validation, then launches into a MedEd breakdown of the K65R mutation, reviewing how lysine and arginine differ in charge and flexibility, how their R-groups affect protein interactions, and how RT’s polymerase and RNAse activities intersect with NRTI mechanisms. He explains how certain mutations might allow RNAse to undo NRTI-mediated chain termination, emphasizing adherence to meds and promising a deeper dive into K65R next.</td>
     </tr>
     <tr>
+      <td>#</td>
       <td>5</td>
       <td>4</td>
       <td>2025-11-10</td>
@@ -535,6 +565,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Post 35: </td>
     </tr>
     <tr>
+      <td>#</td>
       <td>5</td>
       <td>5</td>
       <td>2025-11-11</td>
@@ -547,6 +578,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Post 36</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-12</td>
@@ -559,6 +591,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Post 37</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-13</td>
@@ -571,6 +604,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 13, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-14</td>
@@ -583,6 +617,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 14, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-15</td>
@@ -595,6 +630,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 15, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-16</td>
@@ -607,6 +643,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 16, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-17</td>
@@ -619,6 +656,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 17, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-18</td>
@@ -631,6 +669,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 18, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-19</td>
@@ -643,6 +682,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 19, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-20</td>
@@ -655,6 +695,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 20, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-21</td>
@@ -667,6 +708,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 21, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-22</td>
@@ -679,6 +721,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 22, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-23</td>
@@ -691,6 +734,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 23, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-24</td>
@@ -703,6 +747,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 24, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-25</td>
@@ -715,6 +760,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 25, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-26</td>
@@ -727,6 +773,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 26, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-27</td>
@@ -739,6 +786,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 27, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-28</td>
@@ -751,6 +799,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 28, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-29</td>
@@ -763,6 +812,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 29, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-11-30</td>
@@ -775,6 +825,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on November 30, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-01</td>
@@ -787,6 +838,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on December 1, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-02</td>
@@ -799,6 +851,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on December 2, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-03</td>
@@ -811,6 +864,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on December 3, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-04</td>
@@ -823,6 +877,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on December 4, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-05</td>
@@ -835,6 +890,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on December 5, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-06</td>
@@ -847,6 +903,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on December 6, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-07</td>
@@ -859,6 +916,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on December 7, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-08</td>
@@ -871,6 +929,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on December 8, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-09</td>
@@ -883,6 +942,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on December 9, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-10</td>
@@ -895,6 +955,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on December 10, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-11</td>
@@ -907,6 +968,7 @@ __Ergo, during my Style Icon campaign, I pledge that I will not pay for or ask o
       <td>Planned posts for all platforms on December 11, 2025</td>
     </tr>
     <tr>
+      <td>#</td>
       <td></td>
       <td></td>
       <td>2025-12-12</td>
